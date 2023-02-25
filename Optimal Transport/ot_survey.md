@@ -14,3 +14,8 @@
 ### Papers
 1. OPTIMAL TRANSPORT FOR CAUSAL DISCOVERY (Tu et al.) <br>
    url: https://arxiv.org/pdf/2201.09366.pdf
+   
+   
+### Scholars
+1. Anna Korba. https://akorba.github.io/Talks.html
+
