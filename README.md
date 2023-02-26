@@ -1,2 +1,3 @@
 # Reading
-reading
+
+Reading repository for deep learing.
