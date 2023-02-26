@@ -1,6 +1,6 @@
 #### Talks and Blogs
 
-1. Bayesian Learning via Stochastic Gradient Langevin Dynamics and Bayes by Backprop <br /> 
+1. Bayesian Learning via Stochastic Gradient Langevin Dynamics and Bayes by Backprop (Brian Keng) <br /> 
    url: https://bjlkeng.github.io/posts/bayesian-learning-via-stochastic-gradient-langevin-dynamics-and-bayes-by-backprop/ <br /> 
    code: https://github.com/bjlkeng/sandbox/tree/master/stochastic_langevin
 
