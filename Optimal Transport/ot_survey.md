@@ -10,6 +10,9 @@
 3. Geometry in sampling methods: A review on manifold MCMC and particle-based variational inference method (Liu Chang) <br>
    url: https://changliu00.github.io/static/Geometry%20in%20sampling%20methods%20-%20public.pdf
 
+4. Solve Fokker-Planck equation via WGF  <br>
+   url: https://github.com/woodssss/Solve-Fokker-Planck-equation-by-Gradient-flow-in-Wasserstein-metric
+
 
 ### Papers
 1. OPTIMAL TRANSPORT FOR CAUSAL DISCOVERY (Tu et al.) <br>
