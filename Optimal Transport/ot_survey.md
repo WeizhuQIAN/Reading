@@ -17,6 +17,8 @@
 ### Papers
 1. OPTIMAL TRANSPORT FOR CAUSAL DISCOVERY (Tu et al.) <br>
    url: https://arxiv.org/pdf/2201.09366.pdf
+2. Langevin Monte Carlo and JKO splitting (Espen Bernton) <br>
+   url: http://proceedings.mlr.press/v75/bernton18a/bernton18a.pdf   
    
    
 ### Scholars
