@@ -24,6 +24,9 @@
 4. OPTIMAL TRANSPORT FOR CAUSAL DISCOVERY (Tu et al.) <br>
    url: https://arxiv.org/pdf/2201.09366.pdf
    
+5. On the geometry of Stein variational gradient descent (A. Duncan et al.) <br>
+   url: https://arxiv.org/pdf/1912.00894.pdf   
+   
    
    
 ### Scholars
