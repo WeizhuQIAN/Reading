@@ -29,4 +29,7 @@
 1. [Anna Korba](https://akorba.github.io/Talks.html)
 
 
+### Survey
+1. [Awesome Optimal Transport](https://github.com/kilianFatras/awesome-optimal-transport)
+
 ### Codes
