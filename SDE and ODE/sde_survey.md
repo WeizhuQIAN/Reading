@@ -1,6 +1,6 @@
 ### Blogs and Talks:
 
-1. [Numerical simulation of SDEs] (https://random-walks.org/content/misc/sde/num-sde.html)
+1. [Numerical simulation of SDEs](https://random-walks.org/content/misc/sde/num-sde.html)
 
 2. [Tutorial on Score-Based Generative Modeling](https://colab.research.google.com/drive/120kYYBOVa1i0TD85RjlEkFjaWDxSFUx3?usp=sharing#scrollTo=21v75FhSkfCq)
 
