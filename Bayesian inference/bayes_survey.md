@@ -11,7 +11,7 @@
 2. Probabilistic Graphical Models (Eric Xing) <b> 
    url: https://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html
 
-   
+[This is an external link to genome.gov](https://www.genome.gov/)   
    
    
 #### Papers
