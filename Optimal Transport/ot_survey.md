@@ -19,8 +19,10 @@
    
 5. [On the geometry of Stein variational gradient descent (A. Duncan et al.)](https://arxiv.org/pdf/1912.00894.pdf)   
    
-   
-   
+###
+Videos 
+1. [Limitations of the theory for sampling with kernelised Wasserstein gradient flows (Anna Korba)](https://www.youtube.com/watch?v=_eMpmwTtWxE)
+
 ### Scholars
 1. [Anna Korba](https://akorba.github.io/Talks.html)
 
