@@ -15,7 +15,8 @@
    
    
 #### Papers
-
+1. Mean Field Theory and its application to deep learning (Mudit Pandey and Mimee Xu) <br> 
+   url: https://mimee.xyz/meanfield.pdf
 
 #### Codes:
 1. Repulsive ensembles. url: https://github.com/ratschlab/repulsive_ensembles
