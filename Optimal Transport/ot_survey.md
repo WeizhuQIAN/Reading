@@ -21,8 +21,8 @@
 
 
 ### Videos 
-1. [Limitations of the theory for sampling with kernelised Wasserstein gradient flows (Anna Korba)](https://www.youtube.com/watch?v=_eMpmwTtWxE), 
-   [paper](http://proceedings.mlr.press/v139/korba21a/korba21a.pdf), [code](https://github.com/pierreablin/ksddescent)
+1. [Limitations of the theory for sampling with kernelised Wasserstein gradient flows (Anna Korba)](https://www.youtube.com/watch?v=_eMpmwTtWxE)| 
+   [paper](http://proceedings.mlr.press/v139/korba21a/korba21a.pdf)|[code](https://github.com/pierreablin/ksddescent)|[slide](https://akorba.github.io/resources/ICBINB_May2022.pdf)
 
 
 ### Scholars
