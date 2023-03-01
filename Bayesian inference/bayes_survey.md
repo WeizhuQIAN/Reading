@@ -14,4 +14,4 @@
 1. [Mean Field Theory and its application to deep learning (Mudit Pandey and Mimee Xu)](https://mimee.xyz/meanfield.pdf)
 
 #### Codes:
-1. [Repulsive ensembles are Bayesian] (https://github.com/ratschlab/repulsive_ensembles)
+1. [Repulsive ensembles are Bayesian](https://github.com/ratschlab/repulsive_ensembles)
