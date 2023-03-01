@@ -15,3 +15,7 @@
 
 #### Codes:
 1. [Repulsive ensembles are Bayesian](https://github.com/ratschlab/repulsive_ensembles)
+
+
+#### Videos:
+1. [I Can’t Believe Bayesian Deep Learning is not Better (Sebastian Nowozin)](https://www.youtube.com/watch?v=xRqjWoQNd4Q)
