@@ -9,7 +9,7 @@
    code: https://github.com/bjlkeng/sandbox/tree/master/stochastic_langevin
 
 2. Probabilistic Graphical Models (Eric Xing) <b> 
-   url: https://www.cs.cmu.edu/~epxing/Class/10708-17/slides/lecture27-SpectrumGM.pdf
+   url: https://www.cs.cmu.edu/~epxing/Class/10708-17/slides/lecture27-SpectrumGM.pdf](https://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html)
 
    
    
