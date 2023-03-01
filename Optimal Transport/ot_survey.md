@@ -17,11 +17,12 @@
    
 4. [OPTIMAL TRANSPORT FOR CAUSAL DISCOVERY (Tu et al.)](https://arxiv.org/pdf/2201.09366.pdf)
    
-5. [On the geometry of Stein variational gradient descent (A. Duncan et al.)](https://arxiv.org/pdf/1912.00894.pdf)   
+5. [On the geometry of Stein variational gradient descent (A. Duncan et al.)](https://arxiv.org/pdf/1912.00894.pdf)    
    
 ###
 Videos 
-1. [Limitations of the theory for sampling with kernelised Wasserstein gradient flows (Anna Korba)](https://www.youtube.com/watch?v=_eMpmwTtWxE)
+1. [Limitations of the theory for sampling with kernelised Wasserstein gradient flows (Anna Korba)](https://www.youtube.com/watch?v=_eMpmwTtWxE), 
+   [paper](http://proceedings.mlr.press/v139/korba21a/korba21a.pdf), [code](https://github.com/pierreablin/ksddescent)
 
 ### Scholars
 1. [Anna Korba](https://akorba.github.io/Talks.html)
