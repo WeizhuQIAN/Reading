@@ -10,4 +10,4 @@ Reading repository for deep learing.
 
 ### 4. [Optimization](/Optimization/opt_survey.md)
 
-### 5. [ODE and SDE](/ODE%20and%20SDE/sde_survey.md)
+### 5. [ODE and SDE](/SDE%20and%20ODE/sde_survey.md)
