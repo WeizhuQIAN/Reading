@@ -2,5 +2,5 @@
 
 Reading repository for deep learing.
 
-### [Bayesian Inference](/Bayesian inference/bayes_survey) 
+### [Bayesian Inference](/Reading/Bayesian inference/bayes_survey) 
 
