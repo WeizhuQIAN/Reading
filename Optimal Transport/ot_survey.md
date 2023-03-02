@@ -21,7 +21,7 @@
    
 5. [On the geometry of Stein variational gradient descent (A. Duncan et al.)](https://arxiv.org/pdf/1912.00894.pdf)   
 
-6. [An Optimal Transport Approach to Causal Inference (TOROUS,Gunsilius, Rigollet)](https://arxiv.org/pdf/2108.05858.pdf)|[video](https://www.youtube.com/watch?v=m4GohwSZUdY) 
+6. [An Optimal Transport Approach to Causal Inference (TOROUS,Gunsilius, and Rigollet)](https://arxiv.org/pdf/2108.05858.pdf)|[video](https://www.youtube.com/watch?v=m4GohwSZUdY) 
 
 
 ### Videos 
