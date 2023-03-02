@@ -7,7 +7,7 @@
 
 3. [Solve Fokker-Planck equation via WGF](https://github.com/woodssss/Solve-Fokker-Planck-equation-by-Gradient-flow-in-Wasserstein-metric)
 
-4. [Optimal transport for machine learning(Remi Flamary and Nicolas Courty)](https://remi.flamary.com/cours/otml/OTML_ISBI_2019_OTintro.pdf)
+4. [Optimal transport for machine learning (Remi Flamary and Nicolas Courty)](https://remi.flamary.com/cours/otml/OTML_ISBI_2019_OTintro.pdf)
 
 
 ### Papers
