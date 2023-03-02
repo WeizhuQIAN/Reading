@@ -23,6 +23,8 @@
 
 6. [An Optimal Transport Approach to Causal Inference (TOROUS,Gunsilius, and Rigollet)](https://arxiv.org/pdf/2108.05858.pdf)|[video](https://www.youtube.com/watch?v=m4GohwSZUdY) 
 
+7. [Optimal Transport for Counterfactual Estimation: A Method for Causal Inference (Charpentier et al)](https://arxiv.org/pdf/2301.07755.pdf)|[code](https://github.com/3wen/counterfactual-estimation-optimal-transport)
+
 
 ### Videos 
 1. [Limitations of the theory for sampling with kernelised Wasserstein gradient flows (Anna Korba)](https://www.youtube.com/watch?v=_eMpmwTtWxE)| 
