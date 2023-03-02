@@ -7,6 +7,8 @@
 
 3. [Solve Fokker-Planck equation via WGF](https://github.com/woodssss/Solve-Fokker-Planck-equation-by-Gradient-flow-in-Wasserstein-metric)
 
+4. [Optimal transport for machine learning(Remi Flamary and Nicolas Courty)](https://remi.flamary.com/cours/otml/OTML_ISBI_2019_OTintro.pdf)
+
 
 ### Papers
 1. [Geometry in sampling methods: A review on manifold MCMC and particle-based variational inference method (Liu Chang and Jun Zhu)](https://changliu00.github.io/static/Geometry%20in%20sampling%20methods%20-%20public.pdf)
