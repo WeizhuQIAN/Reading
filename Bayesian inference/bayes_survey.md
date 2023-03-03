@@ -19,3 +19,6 @@
 
 #### Videos:
 1. [I Can’t Believe Bayesian Deep Learning is not Better (Sebastian Nowozin)](https://www.youtube.com/watch?v=xRqjWoQNd4Q)
+
+#### Books:
+1. [Probabilistic Machine Learning (Kevin Murphy)](https://probml.github.io/pml-book/)
