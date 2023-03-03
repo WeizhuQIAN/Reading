@@ -13,6 +13,8 @@
 ### Papers
 1. [Geometry in sampling methods: A review on manifold MCMC and particle-based variational inference method (Liu Chang and Jun Zhu)](https://changliu00.github.io/static/Geometry%20in%20sampling%20methods%20-%20public.pdf)
 
+2. [Optimal transport for machine learning (Gabriel Peyre)](https://www.youtube.com/watch?v=mITml5ZpqM8)
+
 2. [Stein Variational Gradient Descent as Gradient Flow (Liu Qiang)](https://proceedings.neurips.cc/paper/2017/file/17ed8abedc255908be746d245e50263a-Paper.pdf)
 
 3. [Langevin Monte Carlo and JKO splitting (Espen Bernton)](http://proceedings.mlr.press/v75/bernton18a/bernton18a.pdf)   
