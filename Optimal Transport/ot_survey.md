@@ -30,7 +30,7 @@
 2. [Gabriel Peyré (ENS)](http://www.gpeyre.com/)
 
 
-### Survey 
+### Surveys 
 1. [Awesome Optimal Transport](https://github.com/kilianFatras/awesome-optimal-transport)
 
 ### Codes
