@@ -22,3 +22,7 @@
 
 #### Books:
 1. [Probabilistic Machine Learning (Kevin Murphy)](https://probml.github.io/pml-book/)
+
+
+### Scholars:
+1. [Agustinus Kristiadi](https://agustinus.kristia.de/)
