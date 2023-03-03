@@ -1,6 +1,6 @@
 ### Talks and Blogs
 
-1. [Sampling as First-Order Optimization over a space of probability measures (Anna Korba, Adil Salim)](https://akorba.github.io/resources/Baltimore_July2022_ICMLtutorial.pdf), video:  
+1. [Sampling as First-Order Optimization over a space of probability measures (Anna Korba, Adil Salim)](https://akorba.github.io/resources/Baltimore_July2022_ICMLtutorial.pdf)|[video](https://icml.cc/virtual/2022/tutorial/18437)
 2. [Sampling Methods on Manifolds and Their View from Probability Manifolds (Liu Chang)](https://changliu00.github.io/static/ManifoldSampling-ChangLiu.pdf)
 3. [Solve Fokker-Planck equation via WGF](https://github.com/woodssss/Solve-Fokker-Planck-equation-by-Gradient-flow-in-Wasserstein-metric)
 4. [Optimal transport for machine learning (Remi Flamary and Nicolas Courty)](https://remi.flamary.com/cours/otml/OTML_ISBI_2019_OTintro.pdf)
