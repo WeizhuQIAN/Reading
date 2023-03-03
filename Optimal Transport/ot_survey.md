@@ -32,8 +32,8 @@
 
 
 ### Scholars
-1. [Anna Korba](https://akorba.github.io/Talks.html)
-
+1. [Anna Korba (ENSAE Paris)](https://akorba.github.io/Talks.html)
+2. [Gabriel Peyré (ENS)](http://www.gpeyre.com/)
 
 ### Survey
 1. [Awesome Optimal Transport](https://github.com/kilianFatras/awesome-optimal-transport)
