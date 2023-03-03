@@ -22,14 +22,15 @@
    [paper](http://proceedings.mlr.press/v139/korba21a/korba21a.pdf)|[code](https://github.com/pierreablin/ksddescent)|[slide](https://akorba.github.io/resources/ICBINB_May2022.pdf)
 2. [Optimal transport for machine learning (Gabriel Peyre)](https://www.youtube.com/watch?v=mITml5ZpqM8)   
    
-
+### Books
+1. [Computational Optimal Transport (Gabriel Peyré, Marco Cuturi)](https://arxiv.org/pdf/1803.00567.pdf)|[slides](https://optimaltransport.github.io/slides/)
 
 ### Scholars
 1. [Anna Korba (ENSAE Paris)](https://akorba.github.io/Talks.html)
 2. [Gabriel Peyré (ENS)](http://www.gpeyre.com/)
 
 
-### Survey
+### Survey 
 1. [Awesome Optimal Transport](https://github.com/kilianFatras/awesome-optimal-transport)
 
 ### Codes
