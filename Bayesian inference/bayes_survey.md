@@ -12,6 +12,7 @@
    
 #### Papers
 1. [Mean Field Theory and its application to deep learning (Mudit Pandey and Mimee Xu)](https://mimee.xyz/meanfield.pdf)
+2. [PACm-Bayes (Morningstar et al.)](https://proceedings.mlr.press/v151/morningstar22a/morningstar22a.pdf)
 
 #### Codes:
 1. [Repulsive ensembles are Bayesian](https://github.com/ratschlab/repulsive_ensembles)
