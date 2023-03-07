@@ -13,6 +13,7 @@
 5. [On the geometry of Stein variational gradient descent (A. Duncan et al.)](https://arxiv.org/pdf/1912.00894.pdf)   
 6. [An Optimal Transport Approach to Causal Inference (TOROUS,Gunsilius, and Rigollet)](https://arxiv.org/pdf/2108.05858.pdf)|[video](https://www.youtube.com/watch?v=m4GohwSZUdY) 
 7. [Optimal Transport for Counterfactual Estimation: A Method for Causal Inference (Charpentier et al)](https://arxiv.org/pdf/2301.07755.pdf)|[code](https://github.com/3wen/counterfactual-estimation-optimal-transport)
+8. [GROMOV-WASSERSTEIN AUTOENCODERS (Nakagawa et al)](https://arxiv.org/pdf/2209.07007.pdf)
 
 
 ### Videos 
