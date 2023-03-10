@@ -2,7 +2,7 @@
 
 
 
-### Talks and Blogs
+### Talks and Blogs:
 
 1. [Bayesian Learning via Stochastic Gradient Langevin Dynamics and Bayes by Backprop (Brian Keng)](https://bjlkeng.github.io/posts/bayesian-learning-via-stochastic-gradient-langevin-dynamics-and-bayes-by-backprop/), 
    [code](https://github.com/bjlkeng/sandbox/tree/master/stochastic_langevin)
@@ -10,7 +10,7 @@
 3. [GANs and Divergence Minimization, KL divergence (Colin Raffel)](https://colinraffel.com/blog/gans-and-divergence-minimization.html)
    
    
-### Papers
+### Papers:
 1. [Mean Field Theory and its application to deep learning (Mudit Pandey and Mimee Xu)](https://mimee.xyz/meanfield.pdf)
 2. [PACm-Bayes (Morningstar et al.)](https://proceedings.mlr.press/v151/morningstar22a/morningstar22a.pdf)
 3. [Learning under Model Misspecification: Applications to Variational and Ensemble methods (Masegosa)](https://proceedings.neurips.cc/paper/2020/file/3ac48664b7886cf4e4ab4aba7e6b6bc9-Paper.pdf)|[code](https://github.com/PGM-Lab/PAC2BAYES)
