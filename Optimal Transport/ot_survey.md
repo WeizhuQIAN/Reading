@@ -27,6 +27,7 @@
 1. [Computational Optimal Transport (Gabriel Peyré, Marco Cuturi)](https://arxiv.org/pdf/1803.00567.pdf)|[slides](https://optimaltransport.github.io/slides/)
 
 
+
 ### Scholars
 1. [Anna Korba (ENSAE Paris)](https://akorba.github.io/Talks.html)
 2. [Gabriel Peyré (ENS)](http://www.gpeyre.com/)
@@ -37,3 +38,4 @@
 
 
 ### Codes
+1. [Finding optimal transport plans using the Sinkhorn solver](https://gist.github.com/wohlert/8589045ab544082560cc5f8915cc90bd)
