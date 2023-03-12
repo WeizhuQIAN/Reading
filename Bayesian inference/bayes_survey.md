@@ -12,6 +12,8 @@
    
 ### Papers:
 1. [Mean Field Theory and its application to deep learning (Mudit Pandey and Mimee Xu)](https://mimee.xyz/meanfield.pdf)
+2. [Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence (Jerfe et al.)](https://proceedings.mlr.press/v161/jerfel21a/jerfel21a.pdf)
+3. [Optimistic reinforcement learning by forward Kullback–Leibler divergence optimization (Kobayash)](https://arxiv.org/pdf/2105.12991.pdf)
 
 #### PAC-Bayes: 
 1. [PACm-Bayes (Morningstar et al.)](https://proceedings.mlr.press/v151/morningstar22a/morningstar22a.pdf)
