@@ -16,7 +16,7 @@
 #### PAC-Bayes: 
 1. [PACm-Bayes (Morningstar et al.)](https://proceedings.mlr.press/v151/morningstar22a/morningstar22a.pdf)
 2. [Learning under Model Misspecification: Applications to Variational and Ensemble methods (Masegosa)](http://128.84.4.34/pdf/1912.08335)|[code](https://github.com/PGM-Lab/PAC2BAYES)
-3. [Loss function based second-order Jensen inequality and its application to particle variational inference (Futami et al.)]https://proceedings.neurips.cc/paper/2021/file/36165c62f7b7df72863d470d73302627-Paper.pdf)
+3. [Loss function based second-order Jensen inequality and its application to particle variational inference (Futami et al.)](https://proceedings.neurips.cc/paper/2021/file/36165c62f7b7df72863d470d73302627-Paper.pdf)
 
 ### Codes:
 1. [Repulsive ensembles are Bayesian](https://github.com/ratschlab/repulsive_ensembles)
