@@ -14,6 +14,7 @@
 1. [Mean Field Theory and its application to deep learning (Mudit Pandey and Mimee Xu)](https://mimee.xyz/meanfield.pdf)
 2. [PACm-Bayes (Morningstar et al.)](https://proceedings.mlr.press/v151/morningstar22a/morningstar22a.pdf)
 3. [Learning under Model Misspecification: Applications to Variational and Ensemble methods (Masegosa)](https://proceedings.neurips.cc/paper/2020/file/3ac48664b7886cf4e4ab4aba7e6b6bc9-Paper.pdf)|[code](https://github.com/PGM-Lab/PAC2BAYES)
+4. [Loss function based second-order Jensen inequality and its application to particle variational inference (Futami et al.)](https://proceedings.neurips.cc/paper/2021/file/36165c62f7b7df72863d470d73302627-Paper.pdf)
 
 ### Codes:
 1. [Repulsive ensembles are Bayesian](https://github.com/ratschlab/repulsive_ensembles)
