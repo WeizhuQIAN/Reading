@@ -1,4 +1,4 @@
-### MCMC, VI, Ensembling, SLGD, SVGD, and HMC, etc. 
+### MCMC, VI, Ensembling, and PAC-Bayes, etc. 
 
 
 
@@ -12,9 +12,12 @@
    
 ### Papers:
 1. [Mean Field Theory and its application to deep learning (Mudit Pandey and Mimee Xu)](https://mimee.xyz/meanfield.pdf)
-2. [PACm-Bayes (Morningstar et al.)](https://proceedings.mlr.press/v151/morningstar22a/morningstar22a.pdf)
-3. [Learning under Model Misspecification: Applications to Variational and Ensemble methods (Masegosa)](http://128.84.4.34/pdf/1912.08335)|[code](https://github.com/PGM-Lab/PAC2BAYES)
-4. [Loss function based second-order Jensen inequality and its application to particle variational inference (Futami et al.)](https://proceedings.neurips.cc/paper/2021/file/36165c62f7b7df72863d470d73302627-Paper.pdf)
+
+#### PAC-Bayes:
+2. 
+3. [PACm-Bayes (Morningstar et al.)](https://proceedings.mlr.press/v151/morningstar22a/morningstar22a.pdf)
+4. [Learning under Model Misspecification: Applications to Variational and Ensemble methods (Masegosa)](http://128.84.4.34/pdf/1912.08335)|[code](https://github.com/PGM-Lab/PAC2BAYES)
+5. [Loss function based second-order Jensen inequality and its application to particle variational inference (Futami et al.)](https://proceedings.neurips.cc/paper/2021/file/36165c62f7b7df72863d470d73302627-Paper.pdf)
 
 ### Codes:
 1. [Repulsive ensembles are Bayesian](https://github.com/ratschlab/repulsive_ensembles)
