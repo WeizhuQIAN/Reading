@@ -18,7 +18,7 @@
 #### Ensembling:
 1. [A spectral approach to gradient estimation for implicit distributions (Shi et al.)](http://proceedings.mlr.press/v80/shi18a/shi18a.pdf)|[code](https://github.com/AntixK/Spectral-Stein-Gradient) 
 2. [FUNCTION SPACE PARTICLE OPTIMIZATION FOR BAYESIAN NEURAL NETWORKS (Wang et al.)](https://arxiv.org/pdf/1902.09754.pdf)
-3. [Repulsive Deep Ensembles are Bayesian (Fortuin)](https://proceedings.neurips.cc/paper/2021/file/1c63926ebcabda26b5cdb31b5cc91efb-Paper.pdf)|[code](https://github.com/ratschlab/repulsive_ensembles)|[reivew](https://openreview.net/forum?id=LAKplpLMbP8)
+3. [Repulsive Deep Ensembles are Bayesian (Fortuin)](https://proceedings.neurips.cc/paper/2021/file/1c63926ebcabda26b5cdb31b5cc91efb-Paper.pdf)|[code](https://github.com/ratschlab/repulsive_ensembles)|[review](https://openreview.net/forum?id=LAKplpLMbP8)
 
 
 
