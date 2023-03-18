@@ -3,6 +3,7 @@
 2. [Sampling Methods on Manifolds and Their View from Probability Manifolds (Liu Chang)](https://changliu00.github.io/static/ManifoldSampling-ChangLiu.pdf)
 3. [Solve Fokker-Planck equation via WGF](https://github.com/woodssss/Solve-Fokker-Planck-equation-by-Gradient-flow-in-Wasserstein-metric)
 4. [Optimal transport for machine learning (Remi Flamary and Nicolas Courty)](https://remi.flamary.com/cours/otml/OTML_ISBI_2019_OTintro.pdf)
+5. [SVGD Note](https://github.com/2019ChenGong/RL-Paper-notes/blob/main/2019_11_22_Stein_Variational_Gradient_Descent__A_General_Purpose_Bayesian_Inference_Algorithm.pdf)
 
 
 ### Papers
