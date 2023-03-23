@@ -1,2 +1,2 @@
 ### Tutorials:
-1. [ODE2VAE](https://cagatayyildiz.github.io/notes/node/)
+1. [Neural ODEs ProbAI 2022 (Çağatay Yıldız)](https://cagatayyildiz.github.io/notes/node/)
