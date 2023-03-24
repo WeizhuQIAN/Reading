@@ -15,10 +15,11 @@
 2. [Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence (Jerfe et al.)](https://proceedings.mlr.press/v161/jerfel21a/jerfel21a.pdf)
 3. [Optimistic reinforcement learning by forward Kullback–Leibler divergence optimization (Kobayash)](https://arxiv.org/pdf/2105.12991.pdf)
 
-#### Ensembling:
+#### Ensembling and SVGD:
 1. [A spectral approach to gradient estimation for implicit distributions (Shi et al.)](http://proceedings.mlr.press/v80/shi18a/shi18a.pdf)|[code](https://github.com/AntixK/Spectral-Stein-Gradient) 
 2. [FUNCTION SPACE PARTICLE OPTIMIZATION FOR BAYESIAN NEURAL NETWORKS (Wang et al.)](https://arxiv.org/pdf/1902.09754.pdf)
 3. [Repulsive Deep Ensembles are Bayesian (Fortuin)](https://proceedings.neurips.cc/paper/2021/file/1c63926ebcabda26b5cdb31b5cc91efb-Paper.pdf)|[code](https://github.com/ratschlab/repulsive_ensembles)|[review](https://openreview.net/forum?id=LAKplpLMbP8)
+4. [Profiling Pareto Front With Multi-Objective Stein Variational Gradient Descent (Liu et al.)](https://proceedings.neurips.cc/paper/2021/file/7bb16972da003e87724f048d76b7e0e1-Paper.pdf)
 
 
 
