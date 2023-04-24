@@ -15,4 +15,5 @@
 2. [A DIFFUSION THEORY FOR DEEP LEARNING DYNAMICS: STOCHASTIC GRADIENT DESCENT EXPONENTIALLY FAVORS FLAT MINIMA (Zeke Xie)](https://arxiv.org/pdf/2002.03495.pdf)
 
 
-
+### Schloars:
+1. [Francis Bach](https://www.di.ens.fr/~fbach/)
