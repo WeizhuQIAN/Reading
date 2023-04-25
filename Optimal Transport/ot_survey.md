@@ -18,6 +18,7 @@
 9. [Gromov-Wasserstein optimal transport to align single-cell multi-omics data (DEMETCI et al.)](https://www.liebertpub.com/doi/pdf/10.1089/cmb.2021.0446)|[video](https://www.youtube.com/watch?v=zGDNe-rErJM)|[code](https://github.com/rsinghlab/SCOT)|[post](https://rsinghlab.github.io/SCOT/)
 10. [Variational inference via Wasserstein
 gradient flows (Lambert at al.)](https://arxiv.org/pdf/2205.15902.pdf)
+11. [ Sliced Gromov-Wasserstein (Titouan Vayer et.al)](https://arxiv.org/abs/1905.10124)|[code](https://github.com/tvayer/SGW)
 
 
 ### Videos 
