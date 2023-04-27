@@ -18,7 +18,9 @@
 9. [Gromov-Wasserstein optimal transport to align single-cell multi-omics data (DEMETCI et al.)](https://www.liebertpub.com/doi/pdf/10.1089/cmb.2021.0446)|[video](https://www.youtube.com/watch?v=zGDNe-rErJM)|[code](https://github.com/rsinghlab/SCOT)|[post](https://rsinghlab.github.io/SCOT/)
 10. [Variational inference via Wasserstein
 gradient flows (Lambert at al.)](https://arxiv.org/pdf/2205.15902.pdf)
-11. [ Sliced Gromov-Wasserstein (Titouan Vayer et.al)](https://arxiv.org/abs/1905.10124)|[code](https://github.com/tvayer/SGW)
+11. [Sliced Gromov-Wasserstein (Titouan Vayer et.al)](https://arxiv.org/abs/1905.10124)|[code](https://github.com/tvayer/SGW)
+12. [Representing Graphs via Gromov-Wasserstein Factorization (Xu, Hongteng et al.)](https://repository.kaust.edu.sa/bitstream/handle/10754/675717/Representing_Graphs_via_Gromov-Wasserstein_Factorization.pdf?sequence=1&isAllowed=y)
+13. [Learning Autoencoders with Relational Regularization (Xu, Hongteng et al.)](http://proceedings.mlr.press/v119/xu20e/xu20e.pdf)
 
 
 ### Videos 
