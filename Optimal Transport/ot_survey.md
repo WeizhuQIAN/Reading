@@ -7,26 +7,41 @@
 
 
 ### Papers
+
+
+#### Gradient Flow
 1. [Geometry in sampling methods: A review on manifold MCMC and particle-based variational inference method (Liu Chang and Jun Zhu)](https://changliu00.github.io/static/Geometry%20in%20sampling%20methods%20-%20public.pdf)
 2. [Stein Variational Gradient Descent as Gradient Flow (Liu Qiang)](https://proceedings.neurips.cc/paper/2017/file/17ed8abedc255908be746d245e50263a-Paper.pdf)
-3. [Langevin Monte Carlo and JKO splitting (Espen Bernton)](http://proceedings.mlr.press/v75/bernton18a/bernton18a.pdf)    
-4. [OPTIMAL TRANSPORT FOR CAUSAL DISCOVERY (Tu et al.)](https://arxiv.org/pdf/2201.09366.pdf)
-5. [On the geometry of Stein variational gradient descent (A. Duncan et al.)](https://arxiv.org/pdf/1912.00894.pdf)   
-6. [An Optimal Transport Approach to Causal Inference (TOROUS,Gunsilius, and Rigollet)](https://arxiv.org/pdf/2108.05858.pdf)|[video](https://www.youtube.com/watch?v=m4GohwSZUdY) 
-7. [Optimal Transport for Counterfactual Estimation: A Method for Causal Inference (Charpentier et al)](https://arxiv.org/pdf/2301.07755.pdf)|[code](https://github.com/3wen/counterfactual-estimation-optimal-transport)
-8. [GROMOV-WASSERSTEIN AUTOENCODERS (Nakagawa et al)](https://arxiv.org/pdf/2209.07007.pdf)|[code](https://github.com/ganmodokix/gwae/blob/main/models/causal.py)
-9. [Gromov-Wasserstein optimal transport to align single-cell multi-omics data (DEMETCI et al.)](https://www.liebertpub.com/doi/pdf/10.1089/cmb.2021.0446)|[video](https://www.youtube.com/watch?v=zGDNe-rErJM)|[code](https://github.com/rsinghlab/SCOT)|[post](https://rsinghlab.github.io/SCOT/)
-10. [Variational inference via Wasserstein
+3. [Langevin Monte Carlo and JKO splitting (Espen Bernton)](http://proceedings.mlr.press/v75/bernton18a/bernton18a.pdf)  
+4. [Variational inference via Wasserstein
 gradient flows (Lambert at al.)](https://arxiv.org/pdf/2205.15902.pdf)
-11. [Sliced Gromov-Wasserstein (Titouan Vayer et.al)](https://arxiv.org/abs/1905.10124)|[code](https://github.com/tvayer/SGW)
-12. [Representing Graphs via Gromov-Wasserstein Factorization (Xu, Hongteng et al.)](https://repository.kaust.edu.sa/bitstream/handle/10754/675717/Representing_Graphs_via_Gromov-Wasserstein_Factorization.pdf?sequence=1&isAllowed=y)
-13. [Learning Autoencoders with Relational Regularization (Xu, Hongteng et al.)](http://proceedings.mlr.press/v119/xu20e/xu20e.pdf)|[code](https://github.com/HongtengXu/Relational-AutoEncoders)
-14. [Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein (Khai Nguyen et al.)](https://arxiv.org/pdf/2010.01787.pdf)|[slide](https://iclr.cc/media/iclr-2021/Slides/2980.pdf)
+5. [On the geometry of Stein variational gradient descent (A. Duncan et al.)](https://arxiv.org/pdf/1912.00894.pdf)  
 
 
-### Graph Optimal Transport 
+#### Sliced Gromov Wasserstein
+1. [Sliced Gromov-Wasserstein (Titouan Vayer et.al)](https://arxiv.org/abs/1905.10124)|[code](https://github.com/tvayer/SGW)
+2. [Representing Graphs via Gromov-Wasserstein Factorization (Xu, Hongteng et al.)](https://repository.kaust.edu.sa/bitstream/handle/10754/675717/Representing_Graphs_via_Gromov-Wasserstein_Factorization.pdf?sequence=1&isAllowed=y)
+3. [Learning Autoencoders with Relational Regularization (Xu, Hongteng et al.)](http://proceedings.mlr.press/v119/xu20e/xu20e.pdf)|[code](https://github.com/HongtengXu/Relational-AutoEncoders)
+4. [Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein (Khai Nguyen et al.)](https://arxiv.org/pdf/2010.01787.pdf)|[slide](https://iclr.cc/media/iclr-2021/Slides/2980.pdf)
+
+ 
+####  Causal Inference
+1. [OPTIMAL TRANSPORT FOR CAUSAL DISCOVERY (Tu et al.)](https://arxiv.org/pdf/2201.09366.pdf)
+2. [An Optimal Transport Approach to Causal Inference (TOROUS,Gunsilius, and Rigollet)](https://arxiv.org/pdf/2108.05858.pdf)|[video](https://www.youtube.com/watch?v=m4GohwSZUdY) 
+3. [Optimal Transport for Counterfactual Estimation: A Method for Causal Inference (Charpentier et al)](https://arxiv.org/pdf/2301.07755.pdf)|[code](https://github.com/3wen/counterfactual-estimation-optimal-transport)
+
+
+#### Embedding
+1. [GROMOV-WASSERSTEIN AUTOENCODERS (Nakagawa et al)](https://arxiv.org/pdf/2209.07007.pdf)|[code](https://github.com/ganmodokix/gwae/blob/main/models/causal.py)
+2. [Gromov-Wasserstein optimal transport to align single-cell multi-omics data (DEMETCI et al.)](https://www.liebertpub.com/doi/pdf/10.1089/cmb.2021.0446)|[video](https://www.youtube.com/watch?v=zGDNe-rErJM)|[code](https://github.com/rsinghlab/SCOT)|[post](https://rsinghlab.github.io/SCOT/)
+
+
+#### Graph Optimal Transport 
 1. [Graph Optimal Transport for Cross-Domain Alignment (Liqun Chen et al.)](http://proceedings.mlr.press/v119/chen20e/chen20e.pdf)
 2. [Scalable Optimal Transport in High Dimensions for Graph Distances, Embedding Alignment, and More (Johannes Gasteiger)](http://proceedings.mlr.press/v139/gasteiger21a/gasteiger21a.pdf)
+
+
+
 
 ### Videos 
 1. [Limitations of the theory for sampling with kernelised Wasserstein gradient flows (Anna Korba)](https://www.youtube.com/watch?v=_eMpmwTtWxE)| 
