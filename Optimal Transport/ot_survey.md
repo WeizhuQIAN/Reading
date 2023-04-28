@@ -20,8 +20,7 @@
 gradient flows (Lambert at al.)](https://arxiv.org/pdf/2205.15902.pdf)
 11. [Sliced Gromov-Wasserstein (Titouan Vayer et.al)](https://arxiv.org/abs/1905.10124)|[code](https://github.com/tvayer/SGW)
 12. [Representing Graphs via Gromov-Wasserstein Factorization (Xu, Hongteng et al.)](https://repository.kaust.edu.sa/bitstream/handle/10754/675717/Representing_Graphs_via_Gromov-Wasserstein_Factorization.pdf?sequence=1&isAllowed=y)
-13. [Learning Autoencoders with Relational Regularization (Xu, Hongteng et al.)](http://proceedings.mlr.press/v119/xu20e/xu20e.pdf)
-
+13. [Learning Autoencoders with Relational Regularization (Xu, Hongteng et al.)](http://proceedings.mlr.press/v119/xu20e/xu20e.pdf)|[code](https://github.com/HongtengXu/Relational-AutoEncoders)
 
 ### Videos 
 1. [Limitations of the theory for sampling with kernelised Wasserstein gradient flows (Anna Korba)](https://www.youtube.com/watch?v=_eMpmwTtWxE)| 
