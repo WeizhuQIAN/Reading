@@ -23,6 +23,11 @@ gradient flows (Lambert at al.)](https://arxiv.org/pdf/2205.15902.pdf)
 13. [Learning Autoencoders with Relational Regularization (Xu, Hongteng et al.)](http://proceedings.mlr.press/v119/xu20e/xu20e.pdf)|[code](https://github.com/HongtengXu/Relational-AutoEncoders)
 14. [Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein (Khai Nguyen et al.)](https://arxiv.org/pdf/2010.01787.pdf)|[slide](https://iclr.cc/media/iclr-2021/Slides/2980.pdf)
 
+
+### Graph Optimal Transport 
+1. [Graph Optimal Transport for Cross-Domain Alignment (Liqun Chen et al.)](http://proceedings.mlr.press/v119/chen20e/chen20e.pdf)
+2. [Scalable Optimal Transport in High Dimensions for Graph Distances, Embedding Alignment, and More (Johannes Gasteiger)](http://proceedings.mlr.press/v139/gasteiger21a/gasteiger21a.pdf)
+
 ### Videos 
 1. [Limitations of the theory for sampling with kernelised Wasserstein gradient flows (Anna Korba)](https://www.youtube.com/watch?v=_eMpmwTtWxE)| 
    [paper](http://proceedings.mlr.press/v139/korba21a/korba21a.pdf)|[code](https://github.com/pierreablin/ksddescent)|[slide](https://akorba.github.io/resources/ICBINB_May2022.pdf)
