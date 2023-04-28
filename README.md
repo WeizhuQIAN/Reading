@@ -10,4 +10,4 @@
 
 ### 5. [ODE](/SDE%20and%20ODE/ode_survey.md) and [SDE](/SDE%20and%20ODE/sde_survey.md)
 
-### 6. [Kernel Methdo]()
+### 6. [Kernel Methdo](/Kernel%20Methods/kernel.md)
