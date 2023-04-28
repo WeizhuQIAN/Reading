@@ -44,3 +44,10 @@ gradient flows (Lambert at al.)](https://arxiv.org/pdf/2205.15902.pdf)
 
 ### Codes
 1. [Finding optimal transport plans using the Sinkhorn solver](https://gist.github.com/wohlert/8589045ab544082560cc5f8915cc90bd)
+
+
+### Library
+1. [POT: Python Optimal Transport](https://pythonot.github.io/index.html)
+
+
+
