@@ -9,3 +9,5 @@
 ### 4. [Optimization](/Optimization/opt_survey.md)
 
 ### 5. [ODE](/SDE%20and%20ODE/ode_survey.md) and [SDE](/SDE%20and%20ODE/sde_survey.md)
+
+### 6. [Kernel Methdo]()
