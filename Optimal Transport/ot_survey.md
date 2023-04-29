@@ -24,12 +24,6 @@ gradient flows (Lambert at al.)](https://arxiv.org/pdf/2205.15902.pdf)
 3. [Learning Autoencoders with Relational Regularization (Xu, Hongteng et al.)](http://proceedings.mlr.press/v119/xu20e/xu20e.pdf)|[code](https://github.com/HongtengXu/Relational-AutoEncoders)
 4. [Improving Relational Regularized Autoencoders with Spherical Sliced Fused Gromov Wasserstein (Khai Nguyen et al.)](https://arxiv.org/pdf/2010.01787.pdf)|[slide](https://iclr.cc/media/iclr-2021/Slides/2980.pdf)
 
- 
-####  Causal Inference
-1. [OPTIMAL TRANSPORT FOR CAUSAL DISCOVERY (Tu et al.)](https://arxiv.org/pdf/2201.09366.pdf)
-2. [An Optimal Transport Approach to Causal Inference (TOROUS,Gunsilius, and Rigollet)](https://arxiv.org/pdf/2108.05858.pdf)|[video](https://www.youtube.com/watch?v=m4GohwSZUdY) 
-3. [Optimal Transport for Counterfactual Estimation: A Method for Causal Inference (Charpentier et al)](https://arxiv.org/pdf/2301.07755.pdf)|[code](https://github.com/3wen/counterfactual-estimation-optimal-transport)
-
 
 #### Embedding
 1. [GROMOV-WASSERSTEIN AUTOENCODERS (Nakagawa et al)](https://arxiv.org/pdf/2209.07007.pdf)|[code](https://github.com/ganmodokix/gwae/blob/main/models/causal.py)
