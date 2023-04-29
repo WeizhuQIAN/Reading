@@ -11,3 +11,5 @@
 ### 5. [ODE](/SDE%20and%20ODE/ode_survey.md) and [SDE](/SDE%20and%20ODE/sde_survey.md)
 
 ### 6. [Kernel Methods](/Kernel%20Methods/kernel.md)
+
+### 7. [Causal Inference](/Causal%20Inference/causal.md)
