@@ -1,4 +1,4 @@
-# Reading repository for deep learning.
+# Reading repository.
 
 ### 1. [Bayesian Inference](/Bayesian%20inference/bayes_survey.md)
 
