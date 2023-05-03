@@ -1,6 +1,7 @@
 ### Blogs and Talks
 1. [Inferring causality in time series data:A concise review of the major approaches (Shay Palachy Affek).](https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46)
 2. [Introduction to Causal Inference in Time Series Data (Shay Palachy Affek)](https://docs.google.com/presentation/d/19HMdEE5BpavB0NSchbpmhVxuj5cXdIYf3quSNVncIeQ/edit#slide=id.g37f601ed02_0_36)|[video](https://www.youtube.com/watch?v=QVQoV22pPak)
+3. [Kun Zhang: Methodological advances in causal representation learning](https://www.youtube.com/watch?v=oBiGEfEPMH0) 
 
 ### Papers
 2. [Causal Inference in Time Series via Supervised Learning,IJCAI-18 (Yoichi Chikahara et al.)](https://www.ijcai.org/Proceedings/2018/0282.pdf)
