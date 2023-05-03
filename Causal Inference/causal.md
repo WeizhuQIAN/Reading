@@ -16,4 +16,4 @@
 ### Surveys 
 1. [Granger Causality: A Review and Recent Advances, (Ali Shojaie1 et al.)](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-040120-010930)
 2. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation (Raha Moraffah et al.)](https://arxiv.org/pdf/2102.05829.pdf)
-3. [Toward Causal Representation Learning (BERNHARD SCHÖLKOPF et al.)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9363924)
+3. [Toward Causal Representation Learning (BERNHARD SCHÖLKOPF et al.)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9363924)|[video](https://www.youtube.com/watch?v=rKZJ0TJWvTk)
