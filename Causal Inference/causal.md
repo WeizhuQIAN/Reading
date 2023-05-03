@@ -8,7 +8,7 @@
 4. [An Optimal Transport Approach to Causal Inference (TOROUS,Gunsilius, and Rigollet)](https://arxiv.org/pdf/2108.05858.pdf)|[video](https://www.youtube.com/watch?v=m4GohwSZUdY)
 5. [Optimal Transport for Counterfactual Estimation: A Method for Causal Inference (Charpentier et al)](https://arxiv.org/pdf/2301.07755.pdf)|[code](https://github.com/3wen/counterfactual-estimation-optimal-transport)
 6. [Intervention Design for Causal Representation Learning, ICML 2022 (Phillip Lippe et al.)](https://proceedings.mlr.press/v162/lippe22a/lippe22a.pdf)
-7. [Amortized Causal Discovery: Learning to Infer Causal Graphs from Time-Series Data, (Sindy Löwe)](https://proceedings.mlr.press/v177/lowe22a/lowe22a.pdf)|[code](https://github.com/loeweX/AmortizedCausalDiscovery)|[rebview](https://openreview.net/forum?id=gW8n0uD6rl)
+7. [Amortized Causal Discovery: Learning to Infer Causal Graphs from Time-Series Data, (Sindy Löwe)](https://proceedings.mlr.press/v177/lowe22a/lowe22a.pdf)|[code](https://github.com/loeweX/AmortizedCausalDiscovery)|[review](https://openreview.net/forum?id=gW8n0uD6rl)
 8. [Neural Granger Causality, TPAMI2021, (Alex Tank et al.)](https://arxiv.org/pdf/1802.05842.pdf)|[short](https://qiniu.pattern.swarma.org/pdf/arxiv/1802.05842.pdf)|[code](https://github.com/iancovert/Neural-GC)
 
 
