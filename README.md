@@ -13,3 +13,5 @@
 ### 6. [Kernel Methods](/Kernel%20Methods/kernel.md)
 
 ### 7. [Causal Inference](/Causal%20Inference/causal.md)
+
+### 8. [Irregular Samples](/Irregular%20Samples/irregular.md)
