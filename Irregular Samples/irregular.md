@@ -13,5 +13,5 @@
 6. [Temporal Graph Neural Networks for Irregular Data, AISTATS 2023, Joel Oskarsson](https://proceedings.mlr.press/v206/oskarsson23a/oskarsson23a.pdf)|[code](https://github.com/joeloskarsson/tgnn4i)
 7. [A scalable end-to-end Gaussian process adapter for irregularly sampled time series classification, NeurIPS 2016, Steven C-X Li, et al.](https://proceedings.neurips.cc/paper/2016/file/9c01802ddb981e6bcfbec0f0516b8e35-Paper.pdf)
 8. [HOW TO DEAL WITH MISSING DATA IN SUPERVISED DEEP LEARNING? ICLR 2022, Niels Bruun Ipsen, et al.](https://inria.hal.science/hal-03044144/document)|[code](https://github.com/nbip/)
-9. []()|[code]()
+9. [Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML 2020, Steven C-X Li, et al.](http://proceedings.mlr.press/v119/li20k/li20k.pdf)|[code](https://github.com/steveli/partial-encoder-decoder)
 10. []()|[code]()
