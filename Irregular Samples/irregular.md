@@ -11,7 +11,7 @@
 4. [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS 2021, Yusuke Tashiro](https://proceedings.neurips.cc/paper/2021/file/cfe8504bda37b575c70ee1a8276f3486-Paper.pdf)|[code](https://github.com/ermongroup/CSDI)
 5. [Modeling Irregular Time Series with Continuous Recurrent Units, ICML2022, Mona Schirmer](https://proceedings.mlr.press/v162/schirmer22a/schirmer22a.pdf)|[code](https://github.com/boschresearch/Continuous-Recurrent-Units)
 6. [Temporal Graph Neural Networks for Irregular Data, AISTATS 2023, Joel Oskarsson](https://proceedings.mlr.press/v206/oskarsson23a/oskarsson23a.pdf)|[code](https://github.com/joeloskarsson/tgnn4i)
-7. [A scalable end-to-end Gaussian process adapter for irregularly sampled time series classification, NeurIPS 2016, Steven Cheng-Xian Li, et al.](https://proceedings.neurips.cc/paper/2016/file/9c01802ddb981e6bcfbec0f0516b8e35-Paper.pdf)
+7. [A scalable end-to-end Gaussian process adapter for irregularly sampled time series classification, NeurIPS 2016, Steven C-X Li, et al.](https://proceedings.neurips.cc/paper/2016/file/9c01802ddb981e6bcfbec0f0516b8e35-Paper.pdf)
 8. []()|[code]()
 9. []()|[code]()
 10. []()|[code]()
