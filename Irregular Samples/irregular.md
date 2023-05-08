@@ -8,6 +8,7 @@
 1. [MISGAN: LEARNING FROM INCOMPLETE DATA WITH GENERATIVE ADVERSARIAL NETWORKS, ICLR2019, Steven Cheng-Xian Li, et al](https://arxiv.org/pdf/1902.09599.pdf)|[code](https://github.com/steveli/misgan)
 2. [MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets, ICML 2019, Pierre-Alexandre Mattei, et al.](http://proceedings.mlr.press/v97/mattei19a/mattei19a.pdf)
 3. [Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML 2020, Steven C-X Li, et al.](http://proceedings.mlr.press/v119/li20k/li20k.pdf)|[code](https://github.com/steveli/partial-encoder-decoder)
+4. [HOW TO DEAL WITH MISSING DATA IN SUPERVISED DEEP LEARNING? ICLR 2022, Niels Bruun Ipsen, et al.](https://inria.hal.science/hal-03044144/document)|[code](https://github.com/nbip/)
 
 
 ### Diffusion Models
@@ -24,11 +25,9 @@
 3. [INTERPOLATION-PREDICTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES, ICLR2019, Satya Narayan Shukla](https://arxiv.org/pdf/1909.07782.pdf)|[code](https://github.com/mlds-lab/interp-net)
 
 
-
-
-### Other Methods
+### Gaussian Process
 7. [A scalable end-to-end Gaussian process adapter for irregularly sampled time series classification, NeurIPS 2016, Steven C-X Li, et al.](https://proceedings.neurips.cc/paper/2016/file/9c01802ddb981e6bcfbec0f0516b8e35-Paper.pdf)
-8. [HOW TO DEAL WITH MISSING DATA IN SUPERVISED DEEP LEARNING? ICLR 2022, Niels Bruun Ipsen, et al.](https://inria.hal.science/hal-03044144/document)|[code](https://github.com/nbip/)
+
 
 
 
