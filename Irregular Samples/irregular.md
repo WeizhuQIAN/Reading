@@ -21,6 +21,7 @@
 2. [Temporal Graph Neural Networks for Irregular Data, AISTATS 2023, Joel Oskarsson](https://proceedings.mlr.press/v206/oskarsson23a/oskarsson23a.pdf)|[code](https://github.com/joeloskarsson/tgnn4i)
 3. [MULTI-TIME ATTENTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES, ICLR2021, Satya Narayan Shukla, et al.](https://arxiv.org/pdf/2101.10318.pdf)|[code](https://github.com/reml-lab/mTAN)
 4. [INTERPOLATION-PREDICTION NETWORKS FOR IRREGULARLY SAMPLED TIME SERIES, ICLR2019, Satya Narayan Shukla](https://arxiv.org/pdf/1909.07782.pdf)|[code](https://github.com/mlds-lab/interp-net)
+5. [Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations, NeurIPS 2020, Zijie Huang et al.](https://arxiv.org/pdf/2011.03880.pdf)|[code](https://github.com/ZijieH/LG-ODE)
 
 
 ### Gaussian Process
