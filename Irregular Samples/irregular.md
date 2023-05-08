@@ -15,7 +15,7 @@
 8. [HOW TO DEAL WITH MISSING DATA IN SUPERVISED DEEP LEARNING? ICLR 2022, Niels Bruun Ipsen, et al.](https://inria.hal.science/hal-03044144/document)|[code](https://github.com/nbip/)
 9. [Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML 2020, Steven C-X Li, et al.](http://proceedings.mlr.press/v119/li20k/li20k.pdf)|[code](https://github.com/steveli/partial-encoder-decoder)
 10. [MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets, ICML 2019, Pierre-Alexandre Mattei, et al.](http://proceedings.mlr.press/v97/mattei19a/mattei19a.pdf)
-11. []()|[code]()
+11. [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting, ICML 2021, Kashif Rasu et al.](http://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf)|[code](https://github.com/zalandoresearch/pytorch-ts)
 12. []()|[code]()
 13. []()|[code]()
 
