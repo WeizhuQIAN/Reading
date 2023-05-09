@@ -24,6 +24,10 @@
 5. [Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations, NeurIPS 2020, Zijie Huang et al.](https://arxiv.org/pdf/2011.03880.pdf)|[code](https://github.com/ZijieH/LG-ODE)
 
 
+### Graphical Models
+1. [FILLING THE G AP S: MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS, ICLR2022, Andrea Cini, et al.](https://arxiv.org/pdf/2108.00298.pdf)|[code](https://github.com/Graph-Machine-Learning-Group/grin)|[slide](https://iclr.cc/media/iclr-2022/Slides/5891.pdf)
+
+
 ### Gaussian Process
 1. [A scalable end-to-end Gaussian process adapter for irregularly sampled time series classification, NeurIPS 2016, Steven C-X Li, et al.](https://proceedings.neurips.cc/paper/2016/file/9c01802ddb981e6bcfbec0f0516b8e35-Paper.pdf)
 2. []()|[code]()
