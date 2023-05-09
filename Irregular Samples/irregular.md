@@ -29,6 +29,7 @@
 1. [Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations, NeurIPS 2020, Zijie Huang et al.](https://arxiv.org/pdf/2011.03880.pdf)|[code](https://github.com/ZijieH/LG-ODE)|[slide](https://slideslive.com/38937644/learning-continuous-system-dynamics-from-irregularlysampled-partial-observations)
 2. [FILLING THE G AP S: MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS, ICLR2022, Andrea Cini, et al.](https://arxiv.org/pdf/2108.00298.pdf)|[code](https://github.com/Graph-Machine-Learning-Group/grin)|[slide](https://iclr.cc/media/iclr-2022/Slides/5891.pdf)
 3. [Temporal Graph Neural Networks for Irregular Data, AISTATS 2023, Joel Oskarsson](https://proceedings.mlr.press/v206/oskarsson23a/oskarsson23a.pdf)|[code](https://github.com/joeloskarsson/tgnn4i)
+4. [Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations, NeurIPS 2022, Ivan Marisca, et al.](https://arxiv.org/pdf/2205.13479.pdf)|[code](https://github.com/Graph-Machine-Learning-Group/spin)
 
 
 ### Gaussian Process
