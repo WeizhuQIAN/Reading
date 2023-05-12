@@ -38,7 +38,7 @@
 
 ### Gaussian Process
 1. [A scalable end-to-end Gaussian process adapter for irregularly sampled time series classification, NeurIPS 2016, Steven C-X Li, et al.](https://proceedings.neurips.cc/paper/2016/file/9c01802ddb981e6bcfbec0f0516b8e35-Paper.pdf)
-2. []()|[code]()
+2. [GP-VAE: Deep Probabilistic Multivariate Time Series Imputation, AISTATS 2020, Vincent Fortuin, et al.](http://proceedings.mlr.press/v108/fortuin20a/fortuin20a.pdf)|[code](https://github.com/ratschlab/GP-VAE)
 3. []()|[code]()
 
 ### Surveys
