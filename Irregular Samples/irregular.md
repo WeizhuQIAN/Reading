@@ -35,21 +35,24 @@
 7. []()|[code]()
 
 
-
 ### Gaussian Process
 1. [A scalable end-to-end Gaussian process adapter for irregularly sampled time series classification, NeurIPS 2016, Steven C-X Li, et al.](https://proceedings.neurips.cc/paper/2016/file/9c01802ddb981e6bcfbec0f0516b8e35-Paper.pdf)
 2. [GP-VAE: Deep Probabilistic Multivariate Time Series Imputation, AISTATS 2020, Vincent Fortuin, et al.](http://proceedings.mlr.press/v108/fortuin20a/fortuin20a.pdf)|[code](https://github.com/ratschlab/GP-VAE)
 3. []()|[code]()
+
+
+### Code example
+1. [Diffusion Models Tutorial, J. Rafid Siddiqui](https://github.com/azad-academy/denoising-diffusion-model/blob/main/diffusion_model_demo.ipynb)
+2. [Diffusion probabilistic models - Score matching, Philippe Esling](https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_01_score.ipynb)
+3. []()
+4. []()
+5. []()
+
 
 ### Surveys
 1. []()
 2. []()
 
 
-### Surveys
-1. [Diffusion Models Tutorial, J. Rafid Siddiqui](https://github.com/azad-academy/denoising-diffusion-model/blob/main/diffusion_model_demo.ipynb)
-2. [Diffusion probabilistic models - Score matching, Philippe Esling](https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_01_score.ipynb)
-3. []()
-4. []()
-5. []()
+
 
