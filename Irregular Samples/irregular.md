@@ -43,4 +43,13 @@
 
 ### Surveys
 1. []()
-2. 
+2. []()
+
+
+### Surveys
+1. [Diffusion Models Tutorial, J. Rafid Siddiqui](https://github.com/azad-academy/denoising-diffusion-model/blob/main/diffusion_model_demo.ipynb)
+2. [Diffusion probabilistic models - Score matching, Philippe Esling](https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_01_score.ipynb)
+3. []()
+4. []()
+5. []()
+
