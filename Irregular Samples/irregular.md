@@ -41,12 +41,17 @@
 3. []()|[code]()
 
 
-### Code example
+### Code Examples
 1. [Diffusion Models Tutorial, J. Rafid Siddiqui](https://github.com/azad-academy/denoising-diffusion-model/blob/main/diffusion_model_demo.ipynb)|[blog](https://towardsdatascience.com/diffusion-models-made-easy-8414298ce4da)
 2. [Diffusion probabilistic models - Score matching, Philippe Esling](https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_01_score.ipynb)
 3. [Score-Based Generative Modeling](https://colab.research.google.com/drive/120kYYBOVa1i0TD85RjlEkFjaWDxSFUx3?usp=sharing#scrollTo=YyQtV7155Nht)
 4. []()
 5. []()
+
+
+### Libraries
+1. [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
+2. []()
 
 
 ### Surveys
