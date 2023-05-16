@@ -54,8 +54,9 @@
 
 
 ### Libraries
-1. [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
-2. []()
+1. [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/tutorial/create_gnn.html)
+2. [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
+3. []()
 
 
 ### Surveys
