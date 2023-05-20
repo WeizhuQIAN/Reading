@@ -17,8 +17,8 @@
 1. [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting, ICML 2021, Kashif Rasu et al.](http://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf)|[code](https://github.com/zalandoresearch/pytorch-ts)
 2. [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS 2021, Yusuke Tashiro](https://proceedings.neurips.cc/paper/2021/file/cfe8504bda37b575c70ee1a8276f3486-Paper.pdf)|[code](https://github.com/ermongroup/CSDI)
 3. [High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022, Robin Rombach, et al.](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)|[code](https://github.com/CompVis/latent-diffusion/tree/main)
-4. []()|[code]()
-5. []()|[code]()
+4. [DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models, Haomin Wen, et al.](https://arxiv.org/pdf/2301.13629.pdf)|[code]()
+5. [PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation, ICDE 2023, Mingzhe Liu, et al.](https://arxiv.org/pdf/2302.09746.pdf)|[code](https://github.com/LMZZML/PriSTI)
 
 
 ### S/ODEs
