@@ -8,3 +8,7 @@
 
 ### Papers:
 1. [Large-Scale Wasserstein Gradient Flows(Mokrov et al.)](https://proceedings.neurips.cc/paper/2021/file/810dfbbebb17302018ae903e9cb7a483-Paper.pdf)|[slide](https://bayesgroup.github.io/bmml_sem/2021/Mokrov_Large_Scale_Wasserstein_Gradient_Flows.pdf)
+
+
+### Diffusion Models:
+1. [Surveys](https://github.com/heejkoo/Awesome-Diffusion-Models) 
