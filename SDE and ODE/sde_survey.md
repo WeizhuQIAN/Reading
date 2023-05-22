@@ -5,6 +5,7 @@
 3. [An Introduction to Stochastic Calculus (Brian Keng)](https://bjlkeng.github.io/posts/an-introduction-to-stochastic-calculus/)
 4. [Score Matching 系列](https://bobondemon.github.io/2022/01/08/Estimation-of-Non-Normalized-Statistical-Models-by-Score-Matching/)|[code](https://github.com/Ending2015a/toy_gradlogp/blob/master/toy_gradlogp/energy.py)   
 5. [Diffusion and Score-Based Generative Models, Yang Song](https://www.youtube.com/watch?v=wMmqCMwuM2Q)
+6. [MIT 6.S192 - Lecture 22: Diffusion Probabilistic Models, Jascha Sohl-Dickstein](https://www.youtube.com/watch?v=XCUlnHP1TNM)
 
 
 ### Papers:
