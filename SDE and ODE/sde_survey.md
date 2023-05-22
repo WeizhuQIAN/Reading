@@ -4,6 +4,7 @@
 2. [Tutorial on Score-Based Generative Modeling](https://colab.research.google.com/drive/120kYYBOVa1i0TD85RjlEkFjaWDxSFUx3?usp=sharing#scrollTo=21v75FhSkfCq)
 3. [An Introduction to Stochastic Calculus (Brian Keng)](https://bjlkeng.github.io/posts/an-introduction-to-stochastic-calculus/)
 4. [Score Matching 系列](https://bobondemon.github.io/2022/01/08/Estimation-of-Non-Normalized-Statistical-Models-by-Score-Matching/)|[code](https://github.com/Ending2015a/toy_gradlogp/blob/master/toy_gradlogp/energy.py)   
+5. [Diffusion and Score-Based Generative Models, Yang Song](https://www.youtube.com/watch?v=wMmqCMwuM2Q)
 
 
 ### Papers:
