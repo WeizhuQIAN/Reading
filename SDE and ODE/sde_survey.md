@@ -8,6 +8,8 @@
 6. [MIT 6.S192 - Lecture 22: Diffusion Probabilistic Models, Jascha Sohl-Dickstein](https://www.youtube.com/watch?v=XCUlnHP1TNM)
 7. [Tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications](https://www.youtube.com/watch?v=cS6JQpEY9cs)|[slide](https://drive.google.com/file/d/1DYHDbt1tSl9oqm3O333biRYzSCOtdtmn/view)
 8. [A Path to the Variational Diffusion Loss? Alex Alemi](https://blog.alexalemi.com/diffusion.html)
+9. [Diffusion Models for Solving Inverse Problems, Jiaming Song](https://www.youtube.com/watch?v=DvUAiqTCMAg)
+10. [Diffusion Models for Inverse Problems, Hyungjin Chung](https://www.youtube.com/watch?v=F5S8VBBncGw)
 
 
 ### Papers:
