@@ -20,4 +20,4 @@
 1. [Surveys](https://github.com/heejkoo/Awesome-Diffusion-Models) 
 2. [What are Diffusion Models? Lilian Weng](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#forward-diffusion-process)
 3. [由浅入深了解Diffusion Model](https://zhuanlan.zhihu.com/p/525106459) 
-4. [diffusion model 最近在图像生成领域大红大紫，如何看待它的风头开始超过 GAN ？, 路橙LuChengTHU](https://www.zhihu.com/question/536012286/answer/2533146567?s_r=0&utm_campaign=shareopn&utm_content=group5_myAnswer&utm_medium=social&utm_oi=595205091167571968&utm_source=wechat_session)
+4. [diffusion model 最近在图像生成领域大红大紫，如何看待它的风头开始超过 GAN ？]|[路橙LuChengTHU](https://www.zhihu.com/question/536012286/answer/2533146567?s_r=0&utm_campaign=shareopn&utm_content=group5_myAnswer&utm_medium=social&utm_oi=595205091167571968&utm_source=wechat_session)|[Baof](https://www.zhihu.com/question/536012286)
