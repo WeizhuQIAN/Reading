@@ -18,3 +18,5 @@
 
 ### Diffusion Models:
 1. [Surveys](https://github.com/heejkoo/Awesome-Diffusion-Models) 
+2. [What are Diffusion Models? Lilian Weng](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#forward-diffusion-process)
+3. [由浅入深了解Diffusion Model](https://zhuanlan.zhihu.com/p/525106459) 
