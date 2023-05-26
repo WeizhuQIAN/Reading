@@ -19,6 +19,7 @@
 3. [High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022, Robin Rombach, et al.](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)|[code](https://github.com/CompVis/latent-diffusion/tree/main)
 4. [DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models, Haomin Wen, et al.](https://arxiv.org/pdf/2301.13629.pdf)|[code]()
 5. [PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation, ICDE 2023, Mingzhe Liu, et al.](https://arxiv.org/pdf/2302.09746.pdf)|[code](https://github.com/LMZZML/PriSTI)|[data](https://mega.nz/folder/Ei4SBRYD#ZjOinn0CzFPkiE_V9yVhJw)
+6. [Modeling Temporal Data as Continuous Functions with Stochastic Process Diffusion, ICML2023, Marin Bilos, et al.](https://arxiv.org/pdf/2211.02590.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Stochastic_Process_Diffusion)
 
 
 ### S/ODEs
