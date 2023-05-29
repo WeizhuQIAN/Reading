@@ -6,8 +6,8 @@
 
 ### Generative Models
 1. [MISGAN: LEARNING FROM INCOMPLETE DATA WITH GENERATIVE ADVERSARIAL NETWORKS, ICLR2019, Steven Cheng-Xian Li, et al](https://arxiv.org/pdf/1902.09599.pdf)|[code](https://github.com/steveli/misgan)
-2. [MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets, ICML 2019, Pierre-Alexandre Mattei, et al.](http://proceedings.mlr.press/v97/mattei19a/mattei19a.pdf)|[code](https://github.com/probabilisticai/probai-2019/blob/master/day4/tutorial_dlvm/MIWAE_Pytorch_exercises_demo_ProbAI_solutions.ipynb)|[slide](https://pamattei.github.io/dlvm_missing.pdf)
-3. [Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML 2020, Steven C-X Li, et al.](http://proceedings.mlr.press/v119/li20k/li20k.pdf)|[code](https://github.com/steveli/partial-encoder-decoder)
+2.  [Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML 2020, Steven C-X Li, et al.](http://proceedings.mlr.press/v119/li20k/li20k.pdf)|[code](https://github.com/steveli/partial-encoder-decoder)
+3. [MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets, ICML 2019, Pierre-Alexandre Mattei, et al.](http://proceedings.mlr.press/v97/mattei19a/mattei19a.pdf)|[code](https://github.com/probabilisticai/probai-2019/blob/master/day4/tutorial_dlvm/MIWAE_Pytorch_exercises_demo_ProbAI_solutions.ipynb)|[slide](https://pamattei.github.io/dlvm_missing.pdf)
 4. [HOW TO DEAL WITH MISSING DATA IN SUPERVISED DEEP LEARNING? ICLR 2022, Niels Bruun Ipsen, et al.](https://inria.hal.science/hal-03044144/document)|[code](https://github.com/nbip/)
 5. []()|[code]()
 6. []()|[code]()
