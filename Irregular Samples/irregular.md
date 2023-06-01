@@ -1,6 +1,6 @@
 ### Talks and Blogs
 1. [It's time to talk about irregularly-sampled time series, David Duvenaud](https://www.youtube.com/watch?v=iB2d99K_vk8)
-2. [()]()
+2. [Generative modeling via Schrödinger bridge, Valentin De Bortoli]|[part5](https://vdeborto.github.io/project/generative_modeling/session_5.pdf)|[part6](https://vdeborto.github.io/project/generative_modeling/session_6.pdf)
 3. [()]()
 
 
@@ -19,11 +19,18 @@
 3. [High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022, Robin Rombach, et al.](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)|[code](https://github.com/CompVis/latent-diffusion/tree/main)
 4. [DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models, Haomin Wen, et al.](https://arxiv.org/pdf/2301.13629.pdf)|[code]()
 5. [PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation, ICDE 2023, Mingzhe Liu, et al.](https://arxiv.org/pdf/2302.09746.pdf)|[code](https://github.com/LMZZML/PriSTI)|[data](https://mega.nz/folder/Ei4SBRYD#ZjOinn0CzFPkiE_V9yVhJw)
-6. [Modeling Temporal Data as Continuous Functions with Stochastic Process Diffusion, ICML2023, Marin Bilos, et al.](https://arxiv.org/pdf/2211.02590.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Stochastic_Process_Diffusion)
+6. [**Modeling Temporal Data as Continuous Functions with Stochastic Process Diffusion, ICML2023, Marin Bilos, et al.](https://arxiv.org/pdf/2211.02590.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Stochastic_Process_Diffusion)
 7. [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models, TMLR2023, Juan Miguel, et al.](https://arxiv.org/pdf/2208.09399.pdf)|[code](https://github.com/AI4HealthUOL/SSSD)
 8. [Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement, Yan Li, et al.](https://proceedings.neurips.cc/paper_files/paper/2022/file/91a85f3fb8f570e6be52b333b5ab017a-Paper-Conference.pdf)
 9. [Variational Diffusion Models, NeurIPS 2021, Diederik P. Kingma, et al.](https://proceedings.neurips.cc/paper/2021/file/b578f2a52a0229873fefc2a4b06377fa-Paper.pdf)|[code torch](https://github.com/addtt/variational-diffusion-models)|[code](https://colab.research.google.com/github/google-research/vdm/blob/main/colab/SimpleDiffusionColab.ipynb#scrollTo=QlxZLC4w084z)|[blog](https://blog.alexalemi.com/diffusion.html)
-10. [Provably Convergent Schrodinger Bridge with Applications to Probabilistic Time Series Imputation, ICML2023, Yu Chen, et al.](https://arxiv.org/pdf/2305.07247.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Conditional_Schrodinger_Bridge_Imputation)
+10. []()
+
+
+### Schrodinger Bridge   
+1. [Provably Convergent Schrodinger Bridge with Applications to Probabilistic Time Series Imputation, ICML2023, Yu Chen, et al.](https://arxiv.org/pdf/2305.07247.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Conditional_Schrodinger_Bridge_Imputation)
+2. []()
+3. []()
+4. []()
 
 
 ### S/ODEs
