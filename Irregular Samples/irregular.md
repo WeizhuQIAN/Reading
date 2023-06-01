@@ -21,7 +21,7 @@
 7. [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models, TMLR2023, Juan Miguel, et al.](https://arxiv.org/pdf/2208.09399.pdf)|[code](https://github.com/AI4HealthUOL/SSSD)
 8. [Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement, Yan Li, et al.](https://proceedings.neurips.cc/paper_files/paper/2022/file/91a85f3fb8f570e6be52b333b5ab017a-Paper-Conference.pdf)
 9. [Variational Diffusion Models, NeurIPS 2021, Diederik P. Kingma, et al.](https://proceedings.neurips.cc/paper/2021/file/b578f2a52a0229873fefc2a4b06377fa-Paper.pdf)|[code torch](https://github.com/addtt/variational-diffusion-models)|[code](https://colab.research.google.com/github/google-research/vdm/blob/main/colab/SimpleDiffusionColab.ipynb#scrollTo=QlxZLC4w084z)|[blog](https://blog.alexalemi.com/diffusion.html)
-10. []()
+10. [VAEs meet Diffusion Models: Efficient and High-Fidelity Generation, Kushagra Pandey et al](https://openreview.net/pdf?id=-J8dM4ed_92)
 
 
 ### Schrodinger Bridge   
