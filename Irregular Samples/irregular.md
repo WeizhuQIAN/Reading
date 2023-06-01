@@ -1,7 +1,6 @@
 ### Talks and Blogs
 1. [It's time to talk about irregularly-sampled time series, David Duvenaud](https://www.youtube.com/watch?v=iB2d99K_vk8)
-2. 
-3. [()]()
+2. [()]()
 
 
 ### Generative Models
@@ -10,7 +9,6 @@
 3. [MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets, ICML 2019, Pierre-Alexandre Mattei, et al.](http://proceedings.mlr.press/v97/mattei19a/mattei19a.pdf)|[code](https://github.com/probabilisticai/probai-2019/blob/master/day4/tutorial_dlvm/MIWAE_Pytorch_exercises_demo_ProbAI_solutions.ipynb)|[slide](https://pamattei.github.io/dlvm_missing.pdf)
 4. [HOW TO DEAL WITH MISSING DATA IN SUPERVISED DEEP LEARNING? ICLR 2022, Niels Bruun Ipsen, et al.](https://inria.hal.science/hal-03044144/document)|[code](https://github.com/nbip/)
 5. []()|[code]()
-6. []()|[code]()
 
 
 ### Diffusion Models
@@ -63,7 +61,6 @@
 2. [Diffusion probabilistic models - Score matching, Philippe Esling](https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_01_score.ipynb)
 3. [Score-Based Generative Modeling](https://colab.research.google.com/drive/120kYYBOVa1i0TD85RjlEkFjaWDxSFUx3?usp=sharing#scrollTo=YyQtV7155Nht)
 4. []()
-5. []()
 
 
 ### Libraries
@@ -79,6 +76,8 @@
 ### Datasets
 1. [MetrLA and PEMSBay](https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX)
 2. [PEMS 3,4,7,8]
+3. [Health]
+4. [PM2.5]
 
 
 
