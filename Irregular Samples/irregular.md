@@ -15,7 +15,7 @@
 
 ### Diffusion Models
 1. [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting, ICML 2021, Kashif Rasu et al.](http://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf)|[code](https://github.com/zalandoresearch/pytorch-ts)
-2. [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS 2021, Yusuke Tashiro](https://proceedings.neurips.cc/paper/2021/file/cfe8504bda37b575c70ee1a8276f3486-Paper.pdf)|[code](https://github.com/ermongroup/CSDI)
+2. [**CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS 2021, Yusuke Tashiro](https://proceedings.neurips.cc/paper/2021/file/cfe8504bda37b575c70ee1a8276f3486-Paper.pdf)|[code](https://github.com/ermongroup/CSDI)
 3. [High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022, Robin Rombach, et al.](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)|[code](https://github.com/CompVis/latent-diffusion/tree/main)
 4. [DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models, Haomin Wen, et al.](https://arxiv.org/pdf/2301.13629.pdf)|[code]()
 5. [PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation, ICDE 2023, Mingzhe Liu, et al.](https://arxiv.org/pdf/2302.09746.pdf)|[code](https://github.com/LMZZML/PriSTI)|[data](https://mega.nz/folder/Ei4SBRYD#ZjOinn0CzFPkiE_V9yVhJw)
@@ -27,10 +27,10 @@
 
 
 ### Schrodinger Bridge   
-1. [Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling, NeurIPS 2021, De Bortoli](https://proceedings.neurips.cc/paper/2021/file/940392f5f32a7ade1cc201767cf83e31-Paper.pdf)|[code](https://github.com/JTT94/diffusion_schrodinger_bridge/tree/main)|[slide5](https://vdeborto.github.io/project/generative_modeling/session_5.pdf)|[slide6](https://vdeborto.github.io/project/generative_modeling/session_6.pdf)
+1. [Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling, NeurIPS 2021, De Bortoli, et al](https://proceedings.neurips.cc/paper/2021/file/940392f5f32a7ade1cc201767cf83e31-Paper.pdf)|[code](https://github.com/JTT94/diffusion_schrodinger_bridge/tree/main)|[slide5](https://vdeborto.github.io/project/generative_modeling/session_5.pdf)|[slide6](https://vdeborto.github.io/project/generative_modeling/session_6.pdf)
 2. [Provably Convergent Schrodinger Bridge with Applications to Probabilistic Time Series Imputation, ICML2023, Yu Chen, et al.](https://arxiv.org/pdf/2305.07247.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Conditional_Schrodinger_Bridge_Imputation)
-3. []()
-4. []()
+3. [Conditional Simulation Using Diffusion Schrödinger Bridges, UAI 2022, Yuyang Shi, etam](https://proceedings.mlr.press/v180/shi22a/shi22a.pdf)|[code](https://github.com/vdeborto/cdsb)
+4. [APPLYING REGULARIZED SCHRÖDINGER-BRIDGE-BASED STOCHASTIC PROCESS IN GENERATIVE MODELING, Ki-Ung Song](https://arxiv.org/pdf/2208.07131.pdf)|[code](https://github.com/KiUngSong/RSB)
 5. []()
 
 
