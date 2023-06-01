@@ -1,6 +1,6 @@
 ### Talks and Blogs
 1. [It's time to talk about irregularly-sampled time series, David Duvenaud](https://www.youtube.com/watch?v=iB2d99K_vk8)
-2. [Generative modeling via Schrödinger bridge, Valentin De Bortoli]|[part5](https://vdeborto.github.io/project/generative_modeling/session_5.pdf)|[part6](https://vdeborto.github.io/project/generative_modeling/session_6.pdf)
+2. 
 3. [()]()
 
 
@@ -27,10 +27,11 @@
 
 
 ### Schrodinger Bridge   
-1. [Provably Convergent Schrodinger Bridge with Applications to Probabilistic Time Series Imputation, ICML2023, Yu Chen, et al.](https://arxiv.org/pdf/2305.07247.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Conditional_Schrodinger_Bridge_Imputation)
-2. []()
+1. [Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling, NeurIPS 2021, De Bortoli](https://proceedings.neurips.cc/paper/2021/file/940392f5f32a7ade1cc201767cf83e31-Paper.pdf)|[code](https://github.com/JTT94/diffusion_schrodinger_bridge/tree/main)|[slide5](https://vdeborto.github.io/project/generative_modeling/session_5.pdf)|[slide6](https://vdeborto.github.io/project/generative_modeling/session_6.pdf)
+2. [Provably Convergent Schrodinger Bridge with Applications to Probabilistic Time Series Imputation, ICML2023, Yu Chen, et al.](https://arxiv.org/pdf/2305.07247.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Conditional_Schrodinger_Bridge_Imputation)
 3. []()
 4. []()
+5. []()
 
 
 ### S/ODEs
