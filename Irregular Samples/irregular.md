@@ -25,7 +25,7 @@
 
 
 ### Schrodinger Bridge   
-1. [Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling, NeurIPS 2021, De Bortoli, et al](https://proceedings.neurips.cc/paper/2021/file/940392f5f32a7ade1cc201767cf83e31-Paper.pdf)|[code](https://github.com/JTT94/diffusion_schrodinger_bridge/tree/main)|[slide5](https://vdeborto.github.io/project/generative_modeling/session_5.pdf)|[slide6](https://vdeborto.github.io/project/generative_modeling/session_6.pdf)
+1. [**Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling, NeurIPS 2021, De Bortoli, et al](https://proceedings.neurips.cc/paper/2021/file/940392f5f32a7ade1cc201767cf83e31-Paper.pdf)|[code](https://github.com/JTT94/diffusion_schrodinger_bridge/tree/main)|[slide5](https://vdeborto.github.io/project/generative_modeling/session_5.pdf)|[slide6](https://vdeborto.github.io/project/generative_modeling/session_6.pdf)
 2. [**Provably Convergent Schrodinger Bridge with Applications to Probabilistic Time Series Imputation, ICML2023, Yu Chen, et al.](https://arxiv.org/pdf/2305.07247.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Conditional_Schrodinger_Bridge_Imputation)
 3. [*Conditional Simulation Using Diffusion Schrödinger Bridges, UAI 2022, Yuyang Shi, etam](https://proceedings.mlr.press/v180/shi22a/shi22a.pdf)|[code](https://github.com/vdeborto/cdsb)
 4. [APPLYING REGULARIZED SCHRÖDINGER-BRIDGE-BASED STOCHASTIC PROCESS IN GENERATIVE MODELING, Ki-Ung Song](https://arxiv.org/pdf/2208.07131.pdf)|[code](https://github.com/KiUngSong/RSB)
