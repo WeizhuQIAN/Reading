@@ -32,6 +32,7 @@
 4. [APPLYING REGULARIZED SCHRÖDINGER-BRIDGE-BASED STOCHASTIC PROCESS IN GENERATIVE MODELING, Ki-Ung Song](https://arxiv.org/pdf/2208.07131.pdf)|[code](https://github.com/KiUngSong/RSB)
 5. [(RL) LIKELIHOOD TRAINING OF SCHRÖDINGER BRIDGE USING FORWARD-BACKWARD SDES THEORY, ICLR 2022, Tianrong Chen, et al.](https://arxiv.org/pdf/2110.11291.pdf)|[code](https://github.com/ghliu/SB-FBSDE)|[video](https://www.youtube.com/watch?v=kp_9FzZB6lA)
 6. [Diffusion Schrödinger Bridge Matching, Yuyang Shi, et al](https://arxiv.org/pdf/2303.16852.pdf)|[code](https://github.com/yuyang-shi/dsbm-pytorch)
+7. [I2SB: Image-to-Image Schrodinger Bridge, ICML 2023, Guan-Horng Liu, et al](https://arxiv.org/pdf/2302.05872.pdf)
 
 
 ### S/ODEs
