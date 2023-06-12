@@ -30,7 +30,7 @@
 2. [**Provably Convergent Schrodinger Bridge with Applications to Probabilistic Time Series Imputation, ICML2023, Yu Chen, et al.](https://arxiv.org/pdf/2305.07247.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Conditional_Schrodinger_Bridge_Imputation)
 3. [*Conditional Simulation Using Diffusion Schrödinger Bridges, UAI 2022, Yuyang Shi, etam](https://proceedings.mlr.press/v180/shi22a/shi22a.pdf)|[code](https://github.com/vdeborto/cdsb)
 4. [APPLYING REGULARIZED SCHRÖDINGER-BRIDGE-BASED STOCHASTIC PROCESS IN GENERATIVE MODELING, Ki-Ung Song](https://arxiv.org/pdf/2208.07131.pdf)|[code](https://github.com/KiUngSong/RSB)
-5. [(RL) LIKELIHOOD TRAINING OF SCHRÖDINGER BRIDGE USING FORWARD-BACKWARD SDES THEORY, ICLR 2022, Tianrong Chen, et al.](https://arxiv.org/pdf/2110.11291.pdf)|[code](https://github.com/ghliu/SB-FBSDE)|[video](https://www.youtube.com/watch?v=kp_9FzZB6lA)
+5. [**LIKELIHOOD TRAINING OF SCHRÖDINGER BRIDGE USING FORWARD-BACKWARD SDES THEORY, ICLR 2022, Tianrong Chen, et al.](https://arxiv.org/pdf/2110.11291.pdf)|[code](https://github.com/ghliu/SB-FBSDE)|[video](https://www.youtube.com/watch?v=kp_9FzZB6lA)
 6. [Diffusion Schrödinger Bridge Matching, Yuyang Shi, et al](https://arxiv.org/pdf/2303.16852.pdf)|[code](https://github.com/yuyang-shi/dsbm-pytorch)
 7. [I2SB: Image-to-Image Schrodinger Bridge, ICML 2023, Guan-Horng Liu, et al](https://arxiv.org/pdf/2302.05872.pdf)
 
