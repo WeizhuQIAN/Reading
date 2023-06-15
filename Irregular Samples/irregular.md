@@ -34,7 +34,7 @@
 6. [Diffusion Schrödinger Bridge Matching, Yuyang Shi, et al](https://arxiv.org/pdf/2303.16852.pdf)|[code](https://github.com/yuyang-shi/dsbm-pytorch)
 7. [**I2SB: Image-to-Image Schrodinger Bridge, ICML 2023, Guan-Horng Liu, et al](https://arxiv.org/pdf/2302.05872.pdf)
 8. [(RL) Deep Generalized Schrödinger Bridge, NeurIPS 2022, Guan-Horng Liu, et al](https://arxiv.org/pdf/2209.09893.pdf)
-9. [DUAL DIFFUSION IMPLICIT BRIDGES FOR IMAGE-TO-IMAGE TRANSLATION, ICLR 2023, Xuan Su, et al.](https://arxiv.org/pdf/2203.08382.pdf)[notebook](https://colab.research.google.com/drive/1-AC-z3DKSpgtCwbt7gASSGNtQOFM0BT6?usp=sharing#scrollTo=DBB1U72776I1)
+9. [(ODE) DUAL DIFFUSION IMPLICIT BRIDGES FOR IMAGE-TO-IMAGE TRANSLATION, ICLR 2023, Xuan Su, et al.](https://arxiv.org/pdf/2203.08382.pdf)[notebook](https://colab.research.google.com/drive/1-AC-z3DKSpgtCwbt7gASSGNtQOFM0BT6?usp=sharing#scrollTo=DBB1U72776I1)
 10. [Unpaired Image-to-Image Translation via Neural Schrödinger Bridge, Beomsu Kim, et al.](https://arxiv.org/pdf/2305.15086.pdf)
 11. [Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport, Alexander Tong, et al.](https://arxiv.org/pdf/2302.00482.pdf)[notebook](https://github.com/atong01/conditional-flow-matching/blob/main/notebooks/training-8gaussians-to-moons.ipynb)
 
