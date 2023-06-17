@@ -1,14 +1,22 @@
-### Talks and Blogs
-1. [It's time to talk about irregularly-sampled time series, David Duvenaud](https://www.youtube.com/watch?v=iB2d99K_vk8)
-2. [()]()
+### Probability Flows
+1. [Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport, Alexander Tong, et al.](https://arxiv.org/pdf/2302.00482.pdf)[notebook](https://github.com/atong01/conditional-flow-matching/blob/main/notebooks/training-8gaussians-to-moons.ipynb)
+2. [Rectified Flow, Liu Qiang](https://www.cs.utexas.edu/~lqiang/rectflow/html/intro.html#problem-learning-transport-maps)|[paper](https://arxiv.org/pdf/2209.03003.pdf)|[code](https://colab.research.google.com/drive/1LouqFBIC7pnubCOl5fhnFd33-oVJao2J?usp=sharing)
+3. [Diffusion Schrödinger Bridge Matching, Yuyang Shi, et al](https://arxiv.org/pdf/2303.16852.pdf)|[code](https://github.com/yuyang-shi/dsbm-pytorch)
+4. [Aligned Diffusion Schrödinger Bridges, Vignesh Ram Somnath, et al.](https://arxiv.org/pdf/2302.11419.pdf)
 
 
-### Generative Models
-1. [MISGAN: LEARNING FROM INCOMPLETE DATA WITH GENERATIVE ADVERSARIAL NETWORKS, ICLR2019, Steven Cheng-Xian Li, et al](https://arxiv.org/pdf/1902.09599.pdf)|[code](https://github.com/steveli/misgan)
-2.  [Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML 2020, Steven C-X Li, et al.](http://proceedings.mlr.press/v119/li20k/li20k.pdf)|[code](https://github.com/steveli/partial-encoder-decoder)
-3. [MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets, ICML 2019, Pierre-Alexandre Mattei, et al.](http://proceedings.mlr.press/v97/mattei19a/mattei19a.pdf)|[code](https://github.com/probabilisticai/probai-2019/blob/master/day4/tutorial_dlvm/MIWAE_Pytorch_exercises_demo_ProbAI_solutions.ipynb)|[slide](https://pamattei.github.io/dlvm_missing.pdf)
-4. [HOW TO DEAL WITH MISSING DATA IN SUPERVISED DEEP LEARNING? ICLR 2022, Niels Bruun Ipsen, et al.](https://inria.hal.science/hal-03044144/document)|[code](https://github.com/nbip/)
-5. []()|[code]()
+### Schrodinger Bridge   
+0. [Introduction to optimal transport, Rémi Flamary and Nicolas Courty](https://remi.flamary.com/cours/otml/OTML_ISBI_2019_OTintro.pdf)
+1. [**Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling, NeurIPS 2021, De Bortoli, et al](https://arxiv.org/pdf/2106.01357.pdf)|[code](https://github.com/JTT94/diffusion_schrodinger_bridge/tree/main)|[slide5](https://vdeborto.github.io/project/generative_modeling/session_5.pdf)|[slide6](https://vdeborto.github.io/project/generative_modeling/session_6.pdf)
+2. [**Provably Convergent Schrodinger Bridge with Applications to Probabilistic Time Series Imputation, ICML2023, Yu Chen, et al.](https://arxiv.org/pdf/2305.07247.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Conditional_Schrodinger_Bridge_Imputation)
+3. [*Conditional Simulation Using Diffusion Schrödinger Bridges, UAI2022, Yuyang Shi, etam](https://proceedings.mlr.press/v180/shi22a/shi22a.pdf)|[code](https://github.com/vdeborto/cdsb)
+4. [APPLYING REGULARIZED SCHRÖDINGER-BRIDGE-BASED STOCHASTIC PROCESS IN GENERATIVE MODELING, Ki-Ung Song](https://arxiv.org/pdf/2208.07131.pdf)|[code](https://github.com/KiUngSong/RSB)
+5. [**LIKELIHOOD TRAINING OF SCHRÖDINGER BRIDGE USING FORWARD-BACKWARD SDES THEORY, ICLR 2022, Tianrong Chen, et al.](https://arxiv.org/pdf/2110.11291.pdf)|[code](https://github.com/ghliu/SB-FBSDE)|[video](https://www.youtube.com/watch?v=kp_9FzZB6lA)
+6. [**I2SB: Image-to-Image Schrodinger Bridge, ICML 2023, Guan-Horng Liu, et al](https://arxiv.org/pdf/2302.05872.pdf)
+7. [(RL) Deep Generalized Schrödinger Bridge, NeurIPS 2022, Guan-Horng Liu, et al](https://arxiv.org/pdf/2209.09893.pdf)
+8. [(ODE) DUAL DIFFUSION IMPLICIT BRIDGES FOR IMAGE-TO-IMAGE TRANSLATION, ICLR 2023, Xuan Su, et al.](https://arxiv.org/pdf/2203.08382.pdf)[notebook](https://colab.research.google.com/drive/1-AC-z3DKSpgtCwbt7gASSGNtQOFM0BT6?usp=sharing#scrollTo=DBB1U72776I1)
+9. [Unpaired Image-to-Image Translation via Neural Schrödinger Bridge, Beomsu Kim, et al.](https://arxiv.org/pdf/2305.15086.pdf)
+
 
 
 ### Diffusion Models
@@ -24,23 +32,14 @@
 10. [VAEs meet Diffusion Models: Efficient and High-Fidelity Generation, Kushagra Pandey et al](https://openreview.net/pdf?id=-J8dM4ed_92)
 
 
-### Schrodinger Bridge   
-0. [Introduction to optimal transport, Rémi Flamary and Nicolas Courty](https://remi.flamary.com/cours/otml/OTML_ISBI_2019_OTintro.pdf)
-1. [**Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling, NeurIPS 2021, De Bortoli, et al](https://arxiv.org/pdf/2106.01357.pdf)|[code](https://github.com/JTT94/diffusion_schrodinger_bridge/tree/main)|[slide5](https://vdeborto.github.io/project/generative_modeling/session_5.pdf)|[slide6](https://vdeborto.github.io/project/generative_modeling/session_6.pdf)
-2. [**Provably Convergent Schrodinger Bridge with Applications to Probabilistic Time Series Imputation, ICML2023, Yu Chen, et al.](https://arxiv.org/pdf/2305.07247.pdf)|[code](https://github.com/morganstanley/MSML/tree/main/papers/Conditional_Schrodinger_Bridge_Imputation)
-3. [*Conditional Simulation Using Diffusion Schrödinger Bridges, UAI2022, Yuyang Shi, etam](https://proceedings.mlr.press/v180/shi22a/shi22a.pdf)|[code](https://github.com/vdeborto/cdsb)
-4. [APPLYING REGULARIZED SCHRÖDINGER-BRIDGE-BASED STOCHASTIC PROCESS IN GENERATIVE MODELING, Ki-Ung Song](https://arxiv.org/pdf/2208.07131.pdf)|[code](https://github.com/KiUngSong/RSB)
-5. [**LIKELIHOOD TRAINING OF SCHRÖDINGER BRIDGE USING FORWARD-BACKWARD SDES THEORY, ICLR 2022, Tianrong Chen, et al.](https://arxiv.org/pdf/2110.11291.pdf)|[code](https://github.com/ghliu/SB-FBSDE)|[video](https://www.youtube.com/watch?v=kp_9FzZB6lA)
-6. [**I2SB: Image-to-Image Schrodinger Bridge, ICML 2023, Guan-Horng Liu, et al](https://arxiv.org/pdf/2302.05872.pdf)
-7. [(RL) Deep Generalized Schrödinger Bridge, NeurIPS 2022, Guan-Horng Liu, et al](https://arxiv.org/pdf/2209.09893.pdf)
-8. [(ODE) DUAL DIFFUSION IMPLICIT BRIDGES FOR IMAGE-TO-IMAGE TRANSLATION, ICLR 2023, Xuan Su, et al.](https://arxiv.org/pdf/2203.08382.pdf)[notebook](https://colab.research.google.com/drive/1-AC-z3DKSpgtCwbt7gASSGNtQOFM0BT6?usp=sharing#scrollTo=DBB1U72776I1)
-9. [Unpaired Image-to-Image Translation via Neural Schrödinger Bridge, Beomsu Kim, et al.](https://arxiv.org/pdf/2305.15086.pdf)
 
-#### Probability Flows
-1. [Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport, Alexander Tong, et al.](https://arxiv.org/pdf/2302.00482.pdf)[notebook](https://github.com/atong01/conditional-flow-matching/blob/main/notebooks/training-8gaussians-to-moons.ipynb)
-2. [Rectified Flow, Liu Qiang](https://www.cs.utexas.edu/~lqiang/rectflow/html/intro.html#problem-learning-transport-maps)|[paper](https://arxiv.org/pdf/2209.03003.pdf)|[code](https://colab.research.google.com/drive/1LouqFBIC7pnubCOl5fhnFd33-oVJao2J?usp=sharing)
-3. [Diffusion Schrödinger Bridge Matching, Yuyang Shi, et al](https://arxiv.org/pdf/2303.16852.pdf)|[code](https://github.com/yuyang-shi/dsbm-pytorch)
-4. [Aligned Diffusion Schrödinger Bridges, Vignesh Ram Somnath, et al.](https://arxiv.org/pdf/2302.11419.pdf)
+### Generative Models
+1. [MISGAN: LEARNING FROM INCOMPLETE DATA WITH GENERATIVE ADVERSARIAL NETWORKS, ICLR2019, Steven Cheng-Xian Li, et al](https://arxiv.org/pdf/1902.09599.pdf)|[code](https://github.com/steveli/misgan)
+2.  [Learning from Irregularly-Sampled Time Series: A Missing Data Perspective, ICML 2020, Steven C-X Li, et al.](http://proceedings.mlr.press/v119/li20k/li20k.pdf)|[code](https://github.com/steveli/partial-encoder-decoder)
+3. [MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets, ICML 2019, Pierre-Alexandre Mattei, et al.](http://proceedings.mlr.press/v97/mattei19a/mattei19a.pdf)|[code](https://github.com/probabilisticai/probai-2019/blob/master/day4/tutorial_dlvm/MIWAE_Pytorch_exercises_demo_ProbAI_solutions.ipynb)|[slide](https://pamattei.github.io/dlvm_missing.pdf)
+4. [HOW TO DEAL WITH MISSING DATA IN SUPERVISED DEEP LEARNING? ICLR 2022, Niels Bruun Ipsen, et al.](https://inria.hal.science/hal-03044144/document)|[code](https://github.com/nbip/)
+5. []()|[code]()
+
 
 
 ### S/ODEs
@@ -72,6 +71,13 @@
 2. [Diffusion probabilistic models - Score matching, Philippe Esling](https://github.com/acids-ircam/diffusion_models/blob/main/diffusion_01_score.ipynb)
 3. [Score-Based Generative Modeling](https://colab.research.google.com/drive/120kYYBOVa1i0TD85RjlEkFjaWDxSFUx3?usp=sharing#scrollTo=YyQtV7155Nht)
 4. []()
+
+
+
+### Talks and Blogs
+1. [It's time to talk about irregularly-sampled time series, David Duvenaud](https://www.youtube.com/watch?v=iB2d99K_vk8)
+2. [()]()
+
 
 
 ### Libraries
