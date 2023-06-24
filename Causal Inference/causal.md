@@ -13,6 +13,7 @@
 8. [Neural Granger Causality, TPAMI2021, (Alex Tank et al.)](https://arxiv.org/pdf/1802.05842.pdf)|[short](https://qiniu.pattern.swarma.org/pdf/arxiv/1802.05842.pdf)|[code](https://github.com/iancovert/Neural-GC)
 9. [CITRIS: Causal Identifiability from Temporal Intervened Sequences (Thomas Kipf et al.)](http://proceedings.mlr.press/v80/kipf18a/kipf18a.pdf)
 10. [Discovering Nonlinear Relations with Minimum Predictive Information Regularization,ICML workshop (Tailin Wu)](https://arxiv.org/pdf/2001.01885.pdf)|[code](https://github.com/tailintalent/causal/blob/master/causality/causality_unified_exp.ipynb)
+11. [CF-GODE: Continuous-Time Causal Inference for Multi-Agent Dynamical Systems, KDD 2023, Song Jiang](https://arxiv.org/pdf/2306.11216.pdf)
 
 
 ### Surveys 
