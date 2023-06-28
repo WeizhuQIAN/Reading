@@ -39,4 +39,9 @@
 
 ### Scholars:
 1. [Agustinus Kristiadi](https://agustinus.kristia.de/)
-2. [Yingzhen Li](http://yingzhenli.net/home/en/?page_id=953)
+2. [Yingzhen Li](http://yingzhenli.net/home/en/?page_id=953
+
+
+### Code:
+1. [Stochastic gradient Markov chain Monte Carlo, lyndon duong](https://www.lyndonduong.com/sgmcmc/)
+
