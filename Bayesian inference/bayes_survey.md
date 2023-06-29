@@ -45,4 +45,5 @@
 ### Code:
 1. [Stochastic gradient Markov chain Monte Carlo, lyndon duong](https://www.lyndonduong.com/sgmcmc/)
 2. [Source code for pysgmcmc.optimizers.sgld](https://pysgmcmc.readthedocs.io/en/pytorch/_modules/pysgmcmc/optimizers/sgld.html)
+3. [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE/tree/master/models)
 
