@@ -8,6 +8,7 @@
    [code](https://github.com/bjlkeng/sandbox/tree/master/stochastic_langevin)
 2. [Probabilistic Graphical Models (Eric Xing)](https://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html)
 3. [GANs and Divergence Minimization, KL divergence (Colin Raffel)](https://colinraffel.com/blog/gans-and-divergence-minimization.html)
+4. [How I learned to stop worrying and write ELBO (and its gradients) in a billion ways](https://yugeten.github.io/posts/2020/06/elbo/)|[code](https://github.com/iffsid/mmvae/blob/public/src/objectives.py)
    
    
 ### Papers:
