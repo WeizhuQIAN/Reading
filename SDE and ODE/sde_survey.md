@@ -10,6 +10,7 @@
 8. [A Path to the Variational Diffusion Loss? Alex Alemi](https://blog.alexalemi.com/diffusion.html)
 9. [Diffusion Models for Solving Inverse Problems, Jiaming Song](https://www.youtube.com/watch?v=DvUAiqTCMAg)
 10. [Diffusion Models for Inverse Problems, Hyungjin Chung](https://www.youtube.com/watch?v=F5S8VBBncGw)
+11. [The Ornstein-Uhlenbeck process, KU](https://web.math.ku.dk/~susanne/StatDiff/Overheads1b)
 
 
 ### Papers:
