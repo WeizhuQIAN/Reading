@@ -1,5 +1,5 @@
 ### Probability Flows
-1. [Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport, Alexander Tong, et al.](https://arxiv.org/pdf/2302.00482.pdf)[notebook](https://github.com/atong01/conditional-flow-matching/blob/main/notebooks/training-8gaussians-to-moons.ipynb)
+1. [Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport, Alexander Tong, et al.](https://arxiv.org/pdf/2302.00482.pdf)|[notebook](https://github.com/atong01/conditional-flow-matching/blob/main/notebooks/training-8gaussians-to-moons.ipynb)
 2. [***Rectified Flow, Liu Qiang](https://www.cs.utexas.edu/~lqiang/rectflow/html/intro.html#problem-learning-transport-maps)|[paper1](https://arxiv.org/pdf/2209.14577.pdf)|[paper2](https://arxiv.org/pdf/2209.03003.pdf)|[demo](https://colab.research.google.com/drive/1LouqFBIC7pnubCOl5fhnFd33-oVJao2J?usp=sharing)|[code](https://github.com/gnobitab/RectifiedFlow)
 3. [Diffusion Schrödinger Bridge Matching, Yuyang Shi, et al](https://arxiv.org/pdf/2303.16852.pdf)|[code](https://github.com/yuyang-shi/dsbm-pytorch)
 4. [Aligned Diffusion Schrödinger Bridges, Vignesh Ram Somnath, et al.](https://arxiv.org/pdf/2302.11419.pdf)
