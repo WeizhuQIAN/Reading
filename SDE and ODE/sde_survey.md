@@ -7,6 +7,7 @@
 4. [Minimizing Trajectory Curvature of ODE-based Generative Models, ICML 2023, Sangyun Lee, et al.](https://arxiv.org/pdf/2301.12003.pdf)|[code](https://github.com/sangyun884/fast-ode)
 5. [Multisample Flow Matching: Straightening Flows with Minibatch Couplings, ICML2023, Aram-Alexandre Pooladian, et al.](https://arxiv.org/pdf/2304.14772.pdf)
 6. [Simulation-Free Schrödinger Bridges via Score and Flow Matching, Alexander Tong, et al.](https://arxiv.org/pdf/2307.03672.pdf)
+7. [Stochastic Interpolants: A Unifying Framework for Flows and Diffusions, Michael S. Albergo, et al.](https://arxiv.org/pdf/2303.08797.pdf)
 
 
 ### Blogs
