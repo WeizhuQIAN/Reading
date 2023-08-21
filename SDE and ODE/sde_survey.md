@@ -6,6 +6,9 @@
 3. [Elucidating the Design Space of Diffusion-Based Generative Models, NeurIPS 2022, Tero Karras,et al.](https://proceedings.neurips.cc/paper_files/paper/2022/file/a98846e9d9cc01cfb87eb694d946ce6b-Paper-Conference.pdf)|[code](https://github.com/NVlabs/edm)
 
 
+### Blogs
+1. [扩散模型之DDPM](https://zhuanlan.zhihu.com/p/563661713)|[扩散模型之DDIM](https://zhuanlan.zhihu.com/p/565698027)|[谈谈扩散模型的损失函数](https://zhuanlan.zhihu.com/p/629334231)
+
 
 
 
