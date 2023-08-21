@@ -11,6 +11,8 @@
 
 ### Blogs
 1. [扩散模型之DDPM](https://zhuanlan.zhihu.com/p/563661713)|[扩散模型之DDIM](https://zhuanlan.zhihu.com/p/565698027)|[谈谈扩散模型的损失函数](https://zhuanlan.zhihu.com/p/629334231)
+2. [An introduction to Diffusion Probabilistic Models, Ayan Das](https://ayandas.me/blog-tut/2021/12/04/diffusion-prob-models.html)
+3. [Generative modelling with Score Functions, Ayan Das](https://ayandas.me/blog-tut/2021/07/14/generative-model-score-function.html)
 
 
 
