@@ -6,6 +6,7 @@
 3. [Elucidating the Design Space of Diffusion-Based Generative Models, NeurIPS 2022, Tero Karras,et al.](https://proceedings.neurips.cc/paper_files/paper/2022/file/a98846e9d9cc01cfb87eb694d946ce6b-Paper-Conference.pdf)|[code](https://github.com/NVlabs/edm)
 4. [Minimizing Trajectory Curvature of ODE-based Generative Models, ICML 2023,Sangyun Lee, et al.](https://arxiv.org/pdf/2301.12003.pdf)
 5. [Multisample Flow Matching: Straightening Flows with Minibatch Couplings, ICML2023, Aram-Alexandre Pooladian, et al.](https://arxiv.org/pdf/2304.14772.pdf)
+6. [Simulation-Free Schrödinger Bridges via Score and Flow Matching, Alexander Tong, et al.](https://arxiv.org/pdf/2307.03672.pdf)
 
 
 ### Blogs
