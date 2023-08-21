@@ -1,4 +1,5 @@
-### Diffusion Models:
+## Diffusion Models:
+### Papers:
 1. [Denoising Diffusion Probabilistic Models, NeurIPS 2020, Ho, et al.](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)
 
 
