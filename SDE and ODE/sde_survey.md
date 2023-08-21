@@ -5,6 +5,7 @@
 2. [SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS, ICLR 2021, Yang Song, et al](https://arxiv.org/pdf/2011.13456.pdf)|[code](https://github.com/yang-song/score_sde)
 3. [Elucidating the Design Space of Diffusion-Based Generative Models, NeurIPS 2022, Tero Karras,et al.](https://proceedings.neurips.cc/paper_files/paper/2022/file/a98846e9d9cc01cfb87eb694d946ce6b-Paper-Conference.pdf)|[code](https://github.com/NVlabs/edm)
 4. [Minimizing Trajectory Curvature of ODE-based Generative Models, ICML 2023,Sangyun Lee, et al.](https://arxiv.org/pdf/2301.12003.pdf)
+5. [Multisample Flow Matching: Straightening Flows with Minibatch Couplings, ICML2023 Aram-Alexandre Pooladian](https://arxiv.org/pdf/2304.14772.pdf)
 
 
 ### Blogs
