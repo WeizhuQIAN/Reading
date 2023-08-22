@@ -27,8 +27,8 @@
 
 
 #####=================================####
-
-
+#### Math 
+1. [ITÔ AND STRATONOVICH; A GUIDE FOR THE PERPLEXED](https://oatml.cs.ox.ac.uk/blog/2022/03/22/ito-strat.html)
 
 
 
