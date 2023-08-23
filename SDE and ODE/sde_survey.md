@@ -8,6 +8,7 @@
 5. [Multisample Flow Matching: Straightening Flows with Minibatch Couplings, ICML2023, Aram-Alexandre Pooladian, et al.](https://arxiv.org/pdf/2304.14772.pdf)
 6. [Simulation-Free Schrödinger Bridges via Score and Flow Matching, Alexander Tong, et al.](https://arxiv.org/pdf/2307.03672.pdf)
 7. [Stochastic Interpolants: A Unifying Framework for Flows and Diffusions, Michael S. Albergo, et al.](https://arxiv.org/pdf/2303.08797.pdf)|[code](https://github.com/malbergo/stochastic-interpolants)
+8. [BUILDING NORMALIZING FLOWS WITH STOCHASTIC INTERPOLANTS, ICLR2023, Michael S. Albergo](https://arxiv.org/pdf/2209.15571.pdf)
 
 
 ### Blogs
