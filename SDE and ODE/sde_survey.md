@@ -9,7 +9,7 @@
 6. [Simulation-Free Schrödinger Bridges via Score and Flow Matching, Alexander Tong, et al.](https://arxiv.org/pdf/2307.03672.pdf)
 7. [Stochastic Interpolants: A Unifying Framework for Flows and Diffusions, Michael S. Albergo, et al.](https://arxiv.org/pdf/2303.08797.pdf)|[code](https://github.com/malbergo/stochastic-interpolants)|[video](https://www.youtube.com/watch?v=v3iYbfMxfEk)
 8. [BUILDING NORMALIZING FLOWS WITH STOCHASTIC INTERPOLANTS, ICLR2023, Michael S. Albergo](https://arxiv.org/pdf/2209.15571.pdf)|[video](https://www.youtube.com/watch?v=cejbXob8rvE)
-9. [Action Matching: Learning Stochastic Dynamics from Samples, ICML 2023, Kirill Neklyudov, et al.](https://arxiv.org/pdf/2210.06662.pdf)
+9. [Action Matching: Learning Stochastic Dynamics from Samples, ICML 2023, Kirill Neklyudov, et al.](https://arxiv.org/pdf/2210.06662.pdf)|[code](https://github.com/necludov/jam)
 
 
 ### Blogs
