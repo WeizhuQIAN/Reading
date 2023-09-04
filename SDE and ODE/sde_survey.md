@@ -10,7 +10,7 @@
 7. [Stochastic Interpolants: A Unifying Framework for Flows and Diffusions, Michael S. Albergo, et al.](https://arxiv.org/pdf/2303.08797.pdf)|[code](https://github.com/malbergo/stochastic-interpolants)|[video](https://www.youtube.com/watch?v=v3iYbfMxfEk)
 8. [BUILDING NORMALIZING FLOWS WITH STOCHASTIC INTERPOLANTS, ICLR2023, Michael S. Albergo](https://arxiv.org/pdf/2209.15571.pdf)|[video](https://www.youtube.com/watch?v=cejbXob8rvE)
 9. [Action Matching: Learning Stochastic Dynamics from Samples, ICML 2023, Kirill Neklyudov, et al.](https://arxiv.org/pdf/2210.06662.pdf)|[code](https://github.com/necludov/jam)|[video](https://www.youtube.com/watch?v=35uEI5ryDRQ)
-10. [LEARNING DIFFUSION BRIDGES ON CONSTRAINED DOMAINS, ICLR 2023, Xingchao Liu, Qiang Liu](https://openreview.net/pdf?id=WH1yCa0TbB)|[demo](https://colab.research.google.com/drive/1-Pf9IfQ85qBObglON_wER_ekj7puDugP?usp=sharing#scrollTo=FvJ97DAJlROE)|[review](https://openreview.net/forum?id=WH1yCa0TbB)
+10. [LEARNING DIFFUSION BRIDGES ON CONSTRAINED DOMAINS, ICLR 2023, Xingchao Liu, Qiang Liu](https://openreview.net/pdf?id=WH1yCa0TbB)|[code](https://github.com/gnobitab/ConstrainedDiffusionBridge)|[demo](https://colab.research.google.com/drive/1-Pf9IfQ85qBObglON_wER_ekj7puDugP?usp=sharing#scrollTo=FvJ97DAJlROE)|[review](https://openreview.net/forum?id=WH1yCa0TbB)
 
 
 ### Blogs
