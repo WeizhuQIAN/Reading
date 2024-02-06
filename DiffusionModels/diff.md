@@ -1,7 +1,8 @@
 ## DDPM (VP)
 1. [Denoising Diffusion Probabilistic Models, NeurIPS 2020, Ho, et al.](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)|[code](https://github.com/hojonathanho/diffusion)
 2. [Variational Diffusion Models，NeurIPS 2021, Kingma，et al](https://proceedings.neurips.cc/paper/2021/file/b578f2a52a0229873fefc2a4b06377fa-Paper.pdf)
-3. [Elucidating the Design Space of Diffusion-Based Generative Models, NeurIPS 2022, Tero Karras,et al.](https://proceedings.neurips.cc/paper_files/paper/2022/file/a98846e9d9cc01cfb87eb694d946ce6b-Paper-Conference.pdf)|[code](https://github.com/NVlabs/edm)|[video](https://www.youtube.com/watch?v=T0Qxzf0eaio)
+3. [DENOISING DIFFUSION IMPLICIT MODELS, ICLR 2021, Song, et al](https://arxiv.org/pdf/2010.02502.pdf?trk=cndc-detail)
+4. [Elucidating the Design Space of Diffusion-Based Generative Models, NeurIPS 2022, Tero Karras,et al.](https://proceedings.neurips.cc/paper_files/paper/2022/file/a98846e9d9cc01cfb87eb694d946ce6b-Paper-Conference.pdf)|[code](https://github.com/NVlabs/edm)|[video](https://www.youtube.com/watch?v=T0Qxzf0eaio)
 
 
 
