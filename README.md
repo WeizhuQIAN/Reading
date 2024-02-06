@@ -16,4 +16,4 @@
 
 ### 8. [Irregular Samples](/Irregular%20Samples/irregular.md)
 
-### 9. [Diffusion Models](/DiffusionModel/diff.md)
+### 9. [Diffusion Models](/DiffusionModels/diff.md)
