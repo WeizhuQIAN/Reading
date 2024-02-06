@@ -7,7 +7,7 @@
 
 
 
-## SBDM (VP)
+## SBDM (VE)
 1. [SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS, ICLR 2021, Yang Song, et al](https://arxiv.org/pdf/2011.13456.pdf)|[code](https://github.com/yang-song/score_sde)
 2. [Tutorial on Score-Based Generative Modeling](https://colab.research.google.com/drive/120kYYBOVa1i0TD85RjlEkFjaWDxSFUx3?usp=sharing#scrollTo=21v75FhSkfCq)
 3. 
