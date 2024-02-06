@@ -15,3 +15,5 @@
 ### 7. [Causal Inference](/Causal%20Inference/causal.md)
 
 ### 8. [Irregular Samples](/Irregular%20Samples/irregular.md)
+
+### 9. [Diffusion Models](/DiffusionModels/diff.md)
