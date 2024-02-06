@@ -1,8 +1,8 @@
 # Reading repository.
 
-####  [Diffusion Models](/DiffusionModels/diff.md)
+##  [Diffusion Models](/DiffusionModels/diff.md)
 
-####  [Optimal Transport](/Optimal%20Transport/ot_survey.md)
+##  [Optimal Transport](/Optimal%20Transport/ot_survey.md)
 
 
 ### 1. [Bayesian Inference](/Bayesian%20inference/bayes_survey.md)
