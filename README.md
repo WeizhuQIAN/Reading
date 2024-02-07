@@ -4,6 +4,8 @@
 
 ##  [Optimal Transport](/Optimal%20Transport/ot_survey.md)
 
+##  [Time Series](/Time%20Series/ts_survey.md)
+
 
 
 ## Other Topics
