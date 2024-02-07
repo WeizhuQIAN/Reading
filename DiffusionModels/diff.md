@@ -43,6 +43,7 @@
 ## Contrained Domain
 1. [LEARNING DIFFUSION BRIDGES ON CONSTRAINED DOMAINS, ICLR 2023, Xingchao Liu, Qiang Liu](https://openreview.net/pdf?id=WH1yCa0TbB)|[code](https://github.com/gnobitab/ConstrainedDiffusionBridge)|[demo](https://colab.research.google.com/drive/1-Pf9IfQ85qBObglON_wER_ekj7puDugP?usp=sharing#scrollTo=FvJ97DAJlROE)|[review](https://openreview.net/forum?id=WH1yCa0TbB)
 2. [Reflected Diffusion Models, ICML 2023, Aaron Lou et al.](https://arxiv.org/pdf/2304.04740.pdf)|[code](https://github.com/louaaron/Reflected-Diffusion/?tab=readme-ov-file)|[video](https://www.youtube.com/watch?v=YfneSNXJSLE)|[blog](https://aaronlou.com/blog/2023/reflected-diffusion/)
+3. [Diffusion Models for Constrained Domains, Arxiv, Nic Fishman, et al.](https://arxiv.org/pdf/2304.05364.pdf)
 
 
 
