@@ -1,10 +1,10 @@
 # Reading repository.
 
-##  [Diffusion Models](/DiffusionModels/diff.md)
+## 1. [Diffusion Models](/DiffusionModels/diff.md)
 
-##  [Optimal Transport](/Optimal%20Transport/ot_survey.md)
+## 2. [Optimal Transport](/Optimal%20Transport/ot_survey.md)
 
-##  [Time Series](/Time%20Series/ts_survey.md)
+## 3. [Time Series](/Time%20Series/ts_survey.md)
 
 
 
