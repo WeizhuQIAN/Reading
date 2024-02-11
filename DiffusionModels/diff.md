@@ -28,7 +28,6 @@
 
 
 
-
 ## Mechanics
 1. [Action Matching: Learning Stochastic Dynamics from Samples, ICML 2023, Kirill Neklyudov, et al.](https://arxiv.org/pdf/2210.06662.pdf)|[code](https://github.com/necludov/jam)|[video](https://www.youtube.com/watch?v=35uEI5ryDRQ)
 2. [NEURAL LAGRANGIAN Shrödinger Bridge: DIFFUSION MODELING FOR POPULATION DYNAMICS, ICLR 2023, Koshizuka, et al](https://arxiv.org/pdf/2204.04853.pdf)
@@ -49,6 +48,20 @@
 
 ## Time Series
 1. [Diffusion Models for Time Series Applications: A Survey, Lequan Li, et al.](https://arxiv.org/pdf/2305.00624.pdf)
+
+
+
+## Uncertainty Quantification
+1. [User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems, ICML2023, Marc Finzi, et al.](https://proceedings.mlr.press/v202/finzi23a/finzi23a.pdf)]|[code](https://github.com/mfinzi/diffusion-extreme-event/tree/main)
+2. [How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control, ICML2023, Jacopo Teneggi, et al.](https://proceedings.mlr.press/v202/teneggi23a/teneggi23a.pdf)|[code](https://github.com/Sulam-Group/k-rcps)|
+3. [CONffusion: CONFIDENCE INTERVALS FOR DIFFUSION MODELS, arxiv2022, Eliahu Horwitz, et al.](https://arxiv.org/pdf/2211.09795.pdf)|[code]()|
+4. [DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with the Diffusion Model, arxiv2023,Zhixian Wang et al.](https://arxiv.org/pdf/2306.01001.pdf)|[code](https://anonymous.4open.science/r/DiffLoad-4714/)|
+5. []()|[code]()|
+6. []()|[code]()|
+
+
+
+
 
 
 
