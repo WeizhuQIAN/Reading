@@ -1,3 +1,16 @@
+## Uncertainty Quantification
+1. [User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems, ICML2023, Marc Finzi, et al.](https://proceedings.mlr.press/v202/finzi23a/finzi23a.pdf)]|[code](https://github.com/mfinzi/diffusion-extreme-event/tree/main)
+2. [(Calibration) How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control, ICML2023, Jacopo Teneggi, et al.](https://proceedings.mlr.press/v202/teneggi23a/teneggi23a.pdf)|[code](https://github.com/Sulam-Group/k-rcps)|
+3. [(Quantile regression) CONffusion: CONFIDENCE INTERVALS FOR DIFFUSION MODELS, arxiv2022, Eliahu Horwitz, et al.](https://arxiv.org/pdf/2211.09795.pdf)|[code](https://github.com/eliahuhorwitz/Conffusion)|
+4. [DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with the Diffusion Model, arxiv2023,Zhixian Wang et al.](https://arxiv.org/pdf/2306.01001.pdf)|[code](https://anonymous.4open.science/r/DiffLoad-4714/)|
+5. [ON THE POSTERIOR DISTRIBUTION IN DENOISING: APPLICATION TO UNCERTAINTY QUANTIFICATION, ICLR2024, Hila Manor et al.](https://arxiv.org/pdf/2309.13598.pdf)|[code](https://github.com/HilaManor/GaussianDenoisingPosterior/)|
+6. []()|[code]()|
+7. []()|[code]()|
+8. []()|[code]()|
+9. []()|[code]()|
+
+
+
 ## DDPM (VP)
 1. [Denoising Diffusion Probabilistic Models, NeurIPS 2020, Ho, et al.](https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)|[code](https://github.com/hojonathanho/diffusion)
 2. [Variational Diffusion Models，NeurIPS 2021, Kingma，et al](https://proceedings.neurips.cc/paper/2021/file/b578f2a52a0229873fefc2a4b06377fa-Paper.pdf)
@@ -9,7 +22,6 @@
 ## SBDM (VE)
 1. [SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS, ICLR 2021, Yang Song, et al](https://arxiv.org/pdf/2011.13456.pdf)|[code](https://github.com/yang-song/score_sde)
 2. [Tutorial on Score-Based Generative Modeling](https://colab.research.google.com/drive/120kYYBOVa1i0TD85RjlEkFjaWDxSFUx3?usp=sharing#scrollTo=21v75FhSkfCq)
-3. 
 
 
 
@@ -17,7 +29,6 @@
 1. [Rectified Flow, Liu Qiang](https://www.cs.utexas.edu/~lqiang/rectflow/html/intro.html#problem-learning-transport-maps)|[paper1](https://arxiv.org/pdf/2209.14577.pdf)|[paper2](https://arxiv.org/pdf/2209.03003.pdf)|[demo](https://colab.research.google.com/drive/1LouqFBIC7pnubCOl5fhnFd33-oVJao2J?usp=sharing)|[code](https://github.com/gnobitab/RectifiedFlow)
 2. [Conditional Flow Matching: Simulation-Free Dynamic Optimal Transport, Alexander Tong, et al.](https://arxiv.org/pdf/2302.00482.pdf)|[notebook](https://github.com/atong01/conditional-flow-matching/blob/main/examples/notebooks/training-8gaussians-to-moons.ipynb)
 3. [Stochastic Interpolants: A Unifying Framework for Flows and Diffusions, Michael S. Albergo, et al.](https://arxiv.org/pdf/2303.08797.pdf)|[code](https://github.com/malbergo/stochastic-interpolants)|[video](https://www.youtube.com/watch?v=v3iYbfMxfEk)
-4. 
 
 
 
@@ -51,13 +62,7 @@
 
 
 
-## Uncertainty Quantification
-1. [User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems, ICML2023, Marc Finzi, et al.](https://proceedings.mlr.press/v202/finzi23a/finzi23a.pdf)]|[code](https://github.com/mfinzi/diffusion-extreme-event/tree/main)
-2. [(Calibration) How to Trust Your Diffusion Model: A Convex Optimization Approach to Conformal Risk Control, ICML2023, Jacopo Teneggi, et al.](https://proceedings.mlr.press/v202/teneggi23a/teneggi23a.pdf)|[code](https://github.com/Sulam-Group/k-rcps)|
-3. [(Quantile regression) CONffusion: CONFIDENCE INTERVALS FOR DIFFUSION MODELS, arxiv2022, Eliahu Horwitz, et al.](https://arxiv.org/pdf/2211.09795.pdf)|[code](https://github.com/eliahuhorwitz/Conffusion)|
-4. [DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with the Diffusion Model, arxiv2023,Zhixian Wang et al.](https://arxiv.org/pdf/2306.01001.pdf)|[code](https://anonymous.4open.science/r/DiffLoad-4714/)|
-5. []()|[code]()|
-6. []()|[code]()|
+
 
 
 
