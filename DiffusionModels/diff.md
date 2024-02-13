@@ -60,6 +60,7 @@
 ## Time Series
 1. [Diffusion Models for Time Series Applications: A Survey, Lequan Li, et al.](https://arxiv.org/pdf/2305.00624.pdf)
 2. [The Rise of Diffusion Models in Time-Series Forecasting, axriv, Caspar Meijer, et al.](https://arxiv.org/pdf/2107.08648.pdf)
+3. [Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting, NeurIPS 2023, Kollovieh, et al.](https://arxiv.org/pdf/2307.11494.pdf)|[code](https://github.com/amazon-science/unconditional-time-series-diffusion)
 
 
 
