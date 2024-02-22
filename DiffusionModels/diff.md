@@ -4,7 +4,7 @@
 3. [(Quantile regression) CONffusion: CONFIDENCE INTERVALS FOR DIFFUSION MODELS, arxiv2022, Eliahu Horwitz, et al.](https://arxiv.org/pdf/2211.09795.pdf)|[code](https://github.com/eliahuhorwitz/Conffusion)|
 4. [DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with the Diffusion Model, arxiv2023,Zhixian Wang et al.](https://arxiv.org/pdf/2306.01001.pdf)|[code](https://anonymous.4open.science/r/DiffLoad-4714/)|
 5. [ON THE POSTERIOR DISTRIBUTION IN DENOISING: APPLICATION TO UNCERTAINTY QUANTIFICATION, ICLR2024, Hila Manor et al.](https://arxiv.org/pdf/2309.13598.pdf)|[code](https://github.com/HilaManor/GaussianDenoisingPosterior/)|
-6. []()|[code]()|
+6. [Distribution-Free, Risk-Controlling Prediction Sets, Angelopoulos.](https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/rcps/)|[code]()|
 7. []()|[code]()|
 
 
