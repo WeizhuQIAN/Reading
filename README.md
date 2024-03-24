@@ -9,6 +9,7 @@
 
 
 ## Other Topics
+### 0. [Math](/Math/math.md)
 
 ### 1. [Bayesian Inference](/Bayesian%20inference/bayes_survey.md)
 
