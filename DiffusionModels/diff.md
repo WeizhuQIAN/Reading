@@ -52,6 +52,10 @@
 
 ## Stochastic Optimal Control
 1. [An optimal control perspective on diffusion-based generative modeling, NeurIPS 2022 Workshop, Julius Berner, et al.](https://arxiv.org/pdf/2211.01364.pdf)
+2. [Solving high-dimensional Hamilton-Jacobi-Bellman PDEs using neural networks: perspectives from the theory of controlled diffusions and measures on path spac, Nikolas Nüsken and Lorenz Richter](https://arxiv.org/pdf/2005.05409.pdf)
+3. [IMPROVED SAMPLING VIA LEARNED DIFFUSIONS](https://openreview.net/pdf?id=h4pNROsO06)
+4. []()
+5. []()
 
 
 
