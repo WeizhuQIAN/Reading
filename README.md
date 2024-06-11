@@ -26,3 +26,6 @@
 ### 7. [Irregular Samples](/Irregular%20Samples/irregular.md)
 
 
+
+## Scholars
+### [Scholars](/Scholars/scholars.md)
