@@ -27,5 +27,6 @@
 
 
 
-## Scholars
+
+# Scholars
 ### [Scholars](/Scholars/scholars.md)
