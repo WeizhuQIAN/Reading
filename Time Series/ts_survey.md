@@ -4,6 +4,7 @@
 3. [Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library/tree/main)
 4. [PyPOTS](https://github.com/WenjieDu/PyPOTS)
 5. [imputeTS: Time Series Missing Value Imputation](https://steffenmoritz.github.io/imputeTS/index.html#imputets-time-series-missing-value-imputation-)
+6. [AI for Time Series (AI4TS) Papers, Tutorials, and Surveys](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)
 
 
 ### Datasets
