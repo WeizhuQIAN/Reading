@@ -1,7 +1,7 @@
 ### Libraries
 1. [GluonTS - Probabilistic Time Series Modeling in Python](https://ts.gluon.ai/stable/getting_started/models.html)
 2. [MOMENT: A Family of Open Time-series Foundation Models](https://github.com/moment-timeseries-foundation-model/moment/tree/main)
-3. []()
+3. [Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library/tree/main)
 
 
 ### Datasets
